@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSA Support & Live Resolution SOP</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 30px;
+            background-color: #ffffff;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2em;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 10px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 15px;
+        }
+        
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.1em;
+            text-align: center;
+            margin-bottom: 40px;
+            font-style: italic;
+        }
+        
+        h2 {
+            color: #2980b9;
+            font-size: 1.5em;
+            font-weight: 600;
+            margin-top: 35px;
+            margin-bottom: 20px;
+            padding-left: 10px;
+            border-left: 4px solid #3498db;
+        }
+        
+        h3 {
+            color: #34495e;
+            font-size: 1.3em;
+            font-weight: 600;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+        
+        h4 {
+            color: #2c3e50;
+            font-size: 1.1em;
+            font-weight: 600;
+            margin-top: 20px;
+            margin-bottom: 12px;
+        }
+        
+        .toc {
+            background-color: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 25px;
+            margin: 30px 0;
+        }
+        
+        .toc h2 {
+            margin-top: 0;
+            color: #2c3e50;
+            border-left: none;
+            padding-left: 0;
+        }
+        
+        .toc ol {
+            margin: 0;
+            padding-left: 20px;
+        }
+        
+        .toc li {
+            margin-bottom: 8px;
+            color: #2c3e50;
+        }
+        
+        .toc ol ol {
+            margin-top: 8px;
+            padding-left: 25px;
+        }
+        
+        .toc ol ol li {
+            color: #5a6c7d;
+            margin-bottom: 5px;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        ul, ol {
+            margin-bottom: 20px;
+            padding-left: 25px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        .note {
+            background-color: #e8f4fd;
+            border: 1px solid #b8daff;
+            border-radius: 6px;
+            padding: 15px;
+            margin: 20px 0;
+            font-size: 0.95em;
+        }
+        
+        .note::before {
+            content: "📝 ";
+            font-weight: bold;
+        }
+        
+        .review {
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 6px;
+            padding: 15px;
+            margin: 20px 0;
+            font-size: 0.95em;
+        }
+        
+        .review::before {
+            content: "🔎 ";
+            font-weight: bold;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            background-color: #ffffff;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: 600;
+            padding: 15px 12px;
+            text-align: left;
+            font-size: 0.95em;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e9ecef;
+            vertical-align: top;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        tr:hover {
+            background-color: #e8f4fd;
+        }
+        
+        .metrics-table {
+            margin: 30px 0;
+        }
+        
+        .process-step {
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            border-left: 4px solid #28a745;
+        }
+        
+        .important {
+            background-color: #fff5f5;
+            border: 1px solid #fed7d7;
+            border-radius: 6px;
+            padding: 15px;
+            margin: 20px 0;
+            color: #c53030;
+        }
+        
+        code {
+            background-color: #f1f3f4;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+        
+        .section-divider {
+            height: 2px;
+            background: linear-gradient(to right, #3498db, #2ecc71);
+            margin: 40px 0;
+            border: none;
+            border-radius: 2px;
+        }
+        
+        .placeholder {
+            font-style: italic;
+            color: #7f8c8d;
+            text-align: center;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 6px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>DRAFT SOP for SSA Support & Live Resolution</h1>
+    <p class="subtitle">This document lays out a standard process on a high level for the SSA LOB with focus on the Live Resolution function</p>
+
+    <div class="toc">
+        <h2>Table of Contents</h2>
+        <ol>
+            <li>Scope</li>
+            <li>Stakeholders</li>
+            <li>The Process - High level view
+                <ol>
+                    <li>SA PoV</li>
+                    <li>SSA PoV</li>
+                    <li>SSA Tooling</li>
+                </ol>
+            </li>
+            <li>SSA Support Process
+                <ol>
+                    <li>Step by step Process</li>
+                    <li>SSA Best Practices</li>
+                    <li>SSA Wrap Up Process</li>
+                    <li>SSA Scope</li>
+                </ol>
+            </li>
+            <li>Success Measures
+                <ol>
+                    <li>Overall LOB Success Metrics</li>
+                    <li>Individual SSA Metrics</li>
+                    <li>Data & Reporting</li>
+                </ol>
+            </li>
+            <li>Communication
+                <ol>
+                    <li>Daily SSA Status Reporting</li>
+                    <li>SSA Weekly Business Reviews</li>
+                    <li>SSA Monthly Business Reviews</li>
+                    <li>Session Access</li>
+                </ol>
+            </li>
+            <li>Quality Assurance
+                <ol>
+                    <li>QA Audit process</li>
+                    <li>Alignment Scoring</li>
+                    <li>QA Reports</li>
+                </ol>
+            </li>
+            <li>Feedback Structures
+                <ol>
+                    <li>SSA > SA Feedback</li>
+                    <li>SA > SSA Feedback</li>
+                    <li>Tooling Related Feedback</li>
+                </ol>
+            </li>
+        </ol>
+    </div>
+
+    <hr class="section-divider">
+
+    <h2>1. Scope</h2>
+    <p>This SOP seeks to provide clear guidelines and expectations on the SSA LOB with focus on the Live Resolution function of SSAs</p>
+
+    <h2>2. Stakeholders</h2>
+    <ul>
+        <li><strong>Vendor Management Team</strong></li>
+        <li><strong>TaskUs & Telus:</strong>
+            <ul>
+                <li>SSA Team & Leadership at TaskUs</li>
+                <li>Operations Leadership Teams - Core teams only</li>
+                <li>Training Leadership team for Mentorship</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>3. The Process - High Level View</h2>
+
+    <h3>3.1 SA PoV:</h3>
+    <p>SA work flow final.jpg</p>
+
+    <h3>3.2 SSA PoV:</h3>
+    <p>SSA Support flow final.jpg</p>
+
+    <h3>3.3 SSA Tooling:</h3>
+    <p>The main tools used for Live resolutions is:</p>
+    <ul>
+        <li><strong>Beacon</strong></li>
+        <li><strong>SSA Skilling on Beacon:</strong> SSA Consulting Chats</li>
+        <li><strong>Configured Concurrency expectation:</strong> 3 chats at all times</li>
+    </ul>
+
+    <h2>4. SSA Support Process</h2>
+
+    <h3>4.1 Step by step process:</h3>
+    <div class="process-step">
+        <p><strong>At the start of your Live Assistance shift, you must log into Beacon:</strong></p>
+        <ol>
+            <li>Navigate to <code>https://beacon.shopify.io/</code>.</li>
+            <li>While your status is Offline, click on Settings.</li>
+            <li>Set your Skill tag to SSA Consulting Chat. This ensures that you're offered chats from Advisors.</li>
+            <li>In the General section, set Max chats to 3.</li>
+            <li>Change your status to Chats.</li>
+        </ol>
+    </div>
+
+    <div class="note">
+        <strong>Note:</strong> For SSAs, this will pull Advisor/Specialist chats. For Advisors/Specialists, the Chats status will pull merchant chats.
+    </div>
+
+    <p><strong>The Beacon window for SSAs is divided into 2 sections: Account and Monitor chat tabs:</strong></p>
+    <ul>
+        <li><strong>Account:</strong> Situated on the left, this tab shares the merchant's account information and links to their Storefront, Admin, and Internal. This layout is identical to what Advisors/Specialists see in their interface. This allows you to quickly reference key details and navigate to critical areas of the merchant's account proactively.</li>
+        <li><strong>Monitor chat:</strong> Situated on the right, this section gives you real-time insights into the live interaction and context between the Advisor and the merchant. Although only the Advisor can directly interact with the merchant, having access to this ongoing dialogue equips you with crucial, up-to-date context, enabling faster resolution.</li>
+    </ul>
+
+    <p><strong>Chat window:</strong> You'll see Advisor request details populate here in the form of a chat. The Advisors'/Specialists' completed form and all context they've provided are shown above the chat. In this space, you'll be able to communicate directly and efficiently with the Advisor so you can collaborate to resolve the issue.</p>
+
+    <div class="note">
+        <strong>Note:</strong> Until an Advisor needs support, this space is blank.
+    </div>
+
+    <h3>4.2 SSA Best Practices:</h3>
+    <ul>
+        <li><strong>Interaction concurrency:</strong> As you would in Slack, maintain a 3-chat concurrency while working in Beacon.</li>
+        <li><strong>Focus on the issue at hand:</strong> Once the issue is resolved, end the chat with the Advisor. Refrain from hand-holding or over-supporting beyond the parameters of the request. Advisors/Specialists must submit a fresh Request help form if additional issues arise.</li>
+        <li><strong>Ending interactions:</strong> To ensure Advisor/Specialist chats with SSAs aren't closed prematurely, only SSAs have the ability to end an interaction with the Advisor.</li>
+        <li><strong>Stale interactions:</strong> Follow the 7-minute step-away process, with check-ins at the 2-, 5-, and 7-minute marks before ending the chat with the Advisor.</li>
+    </ul>
+
+    <div class="review">
+        Review the Channel Expectations - Stale Interactions - Guru Card.
+    </div>
+
+    <ul>
+        <li><strong>Rules of engagement:</strong> These remain the same as in Slack for all SSAs.</li>
+        <li><strong>Wind downs:</strong> While working in Beacon, begin to wind down no earlier than 15 minutes before the end of your scheduled block.</li>
+        <li><strong>Live Assistance transcripts and notes:</strong> When an interaction between an SSA and Advisor is complete, that transcript and your Internal Notes are saved within the related Zendesk ticket as an Internal Note.</li>
+    </ul>
+
+    <h3>4.3 SSA Wrap Up process:</h3>
+    <p>Once you've wrapped up supporting the Advisor, select the pencil icon on the bottom left-hand corner of your chat window to complete the SSA Internal Notes. The following fields should be completed in full:</p>
+
+    <h4>Collaboration outcome:</h4>
+    <p>Dropdown options to measure necessity of the request: Was the reach out valid/necessary?</p>
+    <ul>
+        <li><strong>Acceptable Collaboration:</strong> The collaboration was needed.</li>
+        <li><strong>Collaboration Not Required:</strong> The interaction could've been solved without SSA involvement.</li>
+        <li><strong>Dropped/Disconnected Interaction:</strong> When a chat gets dropped due to connectivity/tooling issues, or the chat between the Advisor and merchant disconnects and therefore the SSA chat has closed automatically.</li>
+    </ul>
+
+    <h4>Reason collaboration wasn't required:</h4>
+    <p>Dropdown only appears when Collaboration outcome > Collaboration Not Required is selected above:</p>
+    <ul>
+        <li><strong>Resources Available:</strong> There is a resource available and accessible that would have resolved the issue without collaboration.</li>
+        <li><strong>Incorrect team:</strong> Collaboration was directed to SSAs incorrectly. It should have gone directly to a different escalated team or channel.</li>
+        <li><strong>Out of scope:</strong> This issue isn't supportable by the SSA team or another escalated team, such as third-party issues not within an escalated teams' scope.</li>
+        <li><strong>Already Escalated:</strong> A ticket(s) have already been escalated to the correct team for resolution.</li>
+    </ul>
+
+    <h4>Collaboration quality:</h4>
+    <p>Dropdown options to measure the quality of the Advisor's submission and troubleshooting steps:</p>
+    <ul>
+        <li><strong>Acceptable Quality:</strong> The collaboration request met the expected standards, providing clear and sufficient context.</li>
+        <li><strong>Workflow Incomplete:</strong> Collaboration macro/workflow lacks complete and/or accurate information.</li>
+        <li><strong>Troubleshooting Incomplete:</strong> Expected troubleshooting steps weren't performed before seeking SSA support.</li>
+    </ul>
+
+    <h4>Resolution resource quality:</h4>
+    <p>Dropdown options to measure the quality of the resource used to solve the request.</p>
+    <ul>
+        <li><strong>Resource Accurate:</strong> The relevant resource(s) provided clear and comprehensive information that addresses the issue effectively.</li>
+        <li><strong>Resource Unclear:</strong> The relevant resource(s) contain ambiguous or confusing information making it difficult to effectively resolve the issue, and/or was too long or difficult to find/navigate.</li>
+        <li><strong>Resource Unavailable:</strong> There's no existing resource(s) available that addresses the issue at hand.</li>
+    </ul>
+
+    <ul>
+        <li><strong>Resource URL:</strong> Mandatory textbox to gather the URL(s) of the resource(s) being referred to in the Resolution Resource field.</li>
+        <li><strong>Additional Notes:</strong> Textbox for any other relevant notes or context that wouldn't be linked by the Advisor. For example: outlining specific info that would be relevant to the TMS escalation the Advisor will be submitting.</li>
+    </ul>
+
+    <div class="review">
+        Review the Live Assistance - Wrap-Up Outcomes & Definitions - Guru Card<br>
+        Detailed Video
+    </div>
+
+    <h3>4.4. SSA Scope:</h3>
+    <ul>
+        <li>SSAs are expected to support with queries from Core advisors teams via Beacon for chats and via #bpo-supportline for async interactions</li>
+        <li>Plus/Retail are supported are currently out of scope for support</li>
+        <li>Both TaskUs and Telus Advisors will be supported by TaskUs SSAs for all topics except the below.</li>
+    </ul>
+
+    <div class="important">
+        <p><strong>Billing & Payments and Shopify Academy requests will automatically route to Internal SSAs until further notice.</strong></p>
+        <p><strong>BPO Advisors must seek support from internal SSAs in #support-ssa on the following requests only, until further notice:</strong></p>
+        <ul>
+            <li>Deleting draft domain statuses in OpenSRS.</li>
+            <li>Changing IPS Tags for .co.uk domains when transferring them out of Shopify.</li>
+            <li>Merchant exemption requests for new variant upload limit.</li>
+            <li>Setting authentication codes for some TLDs such as .DE domains.</li>
+            <li>Request from app developers to transfer ownership of apps to another partner account.</li>
+            <li>Accessing the Collab admin to see if automatic payments are enabled.</li>
+            <li>Accessing the Business Platform Internal to update the organization name displayed in the Admin and adding/removing shops from identity/store switcher.</li>
+        </ul>
+    </div>
+
+    <p>For async interactions, TaskUs and Telus Advisors will use #bpo-supportline.</p>
+
+    <h2>5. Success Measures</h2>
+
+    <h3>5.1 Overall LOB Success Metrics</h3>
+    <div class="placeholder">Placeholder table</div>
+
+    <table class="metrics-table">
+        <caption><strong>LOB Health Scorecard</strong></caption>
+        <thead>
+            <tr>
+                <th>Metric Type</th>
+                <th>Primary KPI</th>
+                <th>Source of Data</th>
+                <th>Targets</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2"><strong>Staffing Delivery</strong></td>
+                <td>Staffing compliance</td>
+                <td>From WFP</td>
+                <td>95%</td>
+            </tr>
+            <tr>
+                <td>Interval Compliance</td>
+                <td>From WFP</td>
+                <td>95%</td>
+            </tr>
+            <tr>
+                <td rowspan="2"><strong>CSAT</strong></td>
+                <td>Team Merchant smiley % for consulted chats</td>
+                <td>SUR</td>
+                <td>73%</td>
+            </tr>
+            <tr>
+                <td>SA CSAT score for SSA team</td>
+                <td>SA > SSA feedback results</td>
+                <td>90%</td>
+            </tr>
+            <tr>
+                <td rowspan="2"><strong>Consultation outcome quality</strong></td>
+                <td>Team Live Resolution Rate</td>
+                <td>Live Resolution Looker</td>
+                <td>70%</td>
+            </tr>
+            <tr>
+                <td>Team Avoidable Escalations for Consulted chats</td>
+                <td>SUR</td>
+                <td>5%</td>
+            </tr>
+            <tr>
+                <td rowspan="4"><strong>Productivity</strong></td>
+                <td>Team AHT for consulted chats</td>
+                <td>Live Resolution Looker</td>
+                <td>25 min</td>
+            </tr>
+            <tr>
+                <td>Average Chat Wind Down</td>
+                <td>?</td>
+                <td>19%</td>
+            </tr>
+            <tr>
+                <td>Average time to first SSA response</td>
+                <td>Live Resolution Looker</td>
+                <td>1 min</td>
+            </tr>
+            <tr>
+                <td>Configured concurrency compliance</td>
+                <td>?</td>
+                <td>2.8</td>
+            </tr>
+            <tr>
+                <td rowspan="2"><strong>Quality</strong></td>
+                <td>Team Quality Score</td>
+                <td>QA Report</td>
+                <td>90%</td>
+            </tr>
+            <tr>
+                <td>Critical Error instances</td>
+                <td>QA Report</td>
+                <td>0</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>5.2 Individual SSA Metrics:</h3>
+    <div class="placeholder">Placeholder table</div>
+
+    <table class="metrics-table">
+        <caption><strong>SSA level scorecard</strong></caption>
+        <thead>
+            <tr>
+                <th>Metric Type</th>
+                <th>Primary KPI</th>
+                <th>Source of Data</th>
+                <th>Targets</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>CSAT</strong></td>
+                <td>Merchant smiley for consulted chats</td>
+                <td>SUR</td>
+                <td>73%</td>
+            </tr>
+            <tr>
+                <td rowspan="2"><strong>Consultation outcome quality</strong></td>
+                <td>Live Resolution Rate</td>
+                <td>Live Resolution Looker</td>
+                <td>70%</td>
+            </tr>
+            <tr>
+                <td>Avoidable Escalations for Consulted chats</td>
+                <td>SUR</td>
+                <td>5%</td>
+            </tr>
+            <tr>
+                <td rowspan="2"><strong>Productivity</strong></td>
+                <td>AHT for consulted chats</td>
+                <td>Live Resolution Looker</td>
+                <td>25 min</td>
+            </tr>
+            <tr>
+                <td>SSA Chat wind down</td>
+                <td>?</td>
+                <td>19%</td>
+            </tr>
+            <tr>
+                <td><strong>Quality</strong></td>
+                <td>Quality Score</td>
+                <td>QA Report</td>
+                <td>90%</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>Targets will be revised on a quarterly basis to ensure they reflect business changes</p>
+
+    <h3>5.3 Data & Reporting</h3>
+    <p>The below reports will be used to track SSA performance:</p>
+    <ul>
+        <li>Support Unified Report</li>
+        <li>Live Resolutions in Beacon</li>
+    </ul>
+
+    <h2>6. Communication</h2>
+    <p>This section lays out the different communication channels and cadences expected for this LOB.</p>
+
+    <h3>6.1 Daily SSA Status Reporting</h3>
+    <p>TaskUs SSA Leadership, in partnership with WFM, will be expected to deliver daily end of day reports with details on the below metrics:</p>
+    <ul>
+        <li>SSA Staffing Compliance</li>
+        <li>SSA Shrinkage</li>
+        <li>SSA Interval Compliance</li>
+        <li>Average wait times observed</li>
+        <li>RCA and Action plans to address staffing gaps</li>
+        <li>Anomalies in query types, issues, etc. encountered</li>
+        <li>Any other flags requiring attention</li>
+    </ul>
+
+    <h3>6.2 SSA Weekly Business Reviews</h3>
+    <p>This is a weekly update on ongoing performance of SSA Support and current status of the LOB, that is presented to the SSA lead at Vendor Solutions. This weekly sync is expected to be led by the TaskUs SSA Manager and the presentation need to cover:</p>
+    <ul>
+        <li>High level view of all SSA KPIs around people & performance (company level + site level)</li>
+        <li>Detailed comments on metrics that are running below expectations</li>
+        <li>Action plans to course correct the above</li>
+        <li>High level view of all KPIs around TaskUs SAs utilisation of SSA support with misuse numbers & trends</li>
+        <li>Operations' Action plans to course correct the above</li>
+        <li>Other SSA updates</li>
+    </ul>
+
+    <h3>6.3 SSA Monthly Business Reviews</h3>
+    <p>SSA Business Reviews are to be conducted on a monthly basis on a vendor company level with all vendor SSA Managers and the Global SSA owner present in a synchronous meeting which will be attended by Vendor Solutions senior leadership and SSA Vendor Manager. The current template for the presentation for SSA MBRs can be found here. While tracking and diving into SSA performance and effectiveness is a prime objective, SSA MBRs are also seen as a forum to consolidate vendor teams' feedback on current SSA processes and workflows, identify areas for improvement within the current structures and for surfacing insights for continuous improvement.</p>
+
+    <h2>7. Quality Assurance</h2>
+    <p>This section details the processes around QA for SSA Live Resolution Support</p>
+
+    <h3>7.1 QA Audit Process</h3>
+    <p>QA for SSAs is completed via a Slack workflow. The SSA TL uses this workflow and the form contained herein to assess tickets where their SSA has provided support.</p>
+    <ul>
+        <li>Audit form on Slack</li>
+        <li>QA responses and scoring sheet</li>
+        <li>SSA QA Rubric and definitions</li>
+        <li>QA Performance Looker Dashboard</li>
+    </ul>
+
+    <p>When an SSA TL completes a QA audit for their direct report, a Slack message is sent automatically to the respective SSA with details of the audit and asking them to read and acknowledge the feedback. SSAs should be completing the acknowledgement within 4 days of the feedback being shared with them.</p>
+
+    <h3>7.2 Alignment Scoring</h3>
+    <p>TaskUs QA is expected to complete alignment scoring on a monthly basis for all SSA TLs. A minimum of 5 tickets per SSA TL should be audited for this audit-the-auditor process and the monthly alignment report needs to be shared with Vendor Solutions via email to vendor.management@shopify.com</p>
+
+    <h3>7.3 QA Reports</h3>
+    <p>Bi-weekly QA reports should be shared with Vendor Solutions via email to vendor.management@shopify.com. The report should contain:</p>
+    <ul>
+        <li>A high level view of running monthly QA performance for the LOB</li>
+        <li>Correlation of QA results with other key metrics</li>
+        <li>A breakdown view of site level SSA performance</li>
+        <li>Outlier information and trends</li>
+        <li>Critical Error call outs and action tracking</li>
+    </ul>
+
+    <h2>8. Feedback Structures</h2>
+
+    <h3>8.1 SSA > SA Feedback</h3>
+    <p>Feedback for advisors consulting with SSAs are captured in the post-consultation workflow as indicated in the Process section above. This can be tracked on the Live Resolutions in Beacon report.</p>
+
+    <h3>8.2 SA > SSA Feedback</h3>
+    <p>TBD</p>
+
+    <h3>8.3 Tooling related feedback</h3>
+    <p>Any Beacon related issues and feedback should be routed to #help-beacon-zendesk. Additionally, any feedback/recommendations on the process or workflows should be surfaced during WBRs on a weekly basis.</p>
+
+</body>
+</html> 

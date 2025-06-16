@@ -1,0 +1,1223 @@
+,,,,,,,
+,Resolution status,COUNTA of Ticket URL,,,Resolution status,COUNTA of Ticket URL,
+,email,64,1.27%,,email,36,0.88%
+,escalated,1398,27.71%,,escalated,1163,28.39%
+,resolved live,3583,71.02%,,resolved live,2898,70.73%
+,Grand Total,5045,,,Grand Total,4097,
+,,,,,,,
+,collaboration_quality,COUNTA of Ticket URL,,,collaboration_quality,COUNTA of Ticket URL,
+,acceptable_quality,3197,63.37%,,acceptable_quality,2452,59.85%
+,null,63,1.25%,,null,45,1.10%
+,troubleshooting_incomplete,1468,29.10%,,troubleshooting_incomplete,1335,32.58%
+,workflow_incomplete,317,6.28%,,workflow_incomplete,265,6.47%
+,Grand Total,5045,,,Grand Total,4097,
+,,,,,,,
+,Outcome,COUNTA of Ticket URL,,,Outcome,COUNTA of Ticket URL,
+,acceptable_collaboration,2974,58.95%,,acceptable_collaboration,2278,55.60%
+,collaboration_not_required,1939,38.43%,,collaboration_not_required,1708,41.69%
+,dropped_disconnected_interaction,69,1.37%,,dropped_disconnected_interaction,66,1.61%
+,null,63,1.25%,,null,45,1.10%
+,Grand Total,5045,,,Grand Total,4097,
+,,,,,,,
+,resolution_resource_quality,COUNTA of Ticket URL,,,resolution_resource_quality,COUNTA of Ticket URL,
+,null,63,1.25%,,null,45,1.10%
+,resource_accurate,3592,71.20%,,resource_accurate,2972,72.54%
+,resource_unavailable,875,17.34%,,resource_unavailable,695,16.96%
+,resource_unclear,515,10.21%,,resource_unclear,385,9.40%
+,Grand Total,5045,,,Grand Total,4097,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,resource_url,COUNTA of Ticket URL,,,,,
+,"
+
+https://app.getguru.com/card/9ce66b5c/Shopify-Payments-Reserves-Key-information
+
+",1,,,,,
+,"
+https://app.getguru.com/card/iByq4j8T/PaymentsCheckout-Getting-an-error-This-store-cant-accept-payments-right-now-at-check",1,,,,,
+,"
+Shopify Tax: United States Sales Tax Report",1,,,,,
+," -[Login Troubleshooting | Guru](https://app.getguru.com/card/TpGaEKac/Login-Troubleshooting)
+- [Merchant Authentication - Chats | Guru](https://app.getguru.com/card/iXeK59yT/Merchant-Authentication-Chats?query=Merchant+authenitcation&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4)",1,,,,,
+, [[Identity] Merchant requests to delete their Identity account (accounts.shopify.com) | Guru](https://app.getguru.com/card/c64okj6i/Identity-Merchant-requests-to-delete-their-Identity-account-accountsshopifycom?q=delete+identity+account),1,,,,,
+, https://app.getguru.com/card/iRA48kBT/Billing-Troubleshooting-INR-Billing and https://app.getguru.com/card/TKzrzxEc/Billing-INR-Address-Requirements-Change-Troubleshooting-,1,,,,,
+, https://app.getguru.com/card/pc58KA9c/Shopify-Shipping-Checkout-Troubleshooting-Your-order-cannot-be-shipped-to-the-selected-address,1,,,,,
+, https://app.getguru.com/card/RTAAkd6T/Shopify-Partners-Collaborator-Account-Troubleshooting,1,,,,,
+, https://app.getguru.com/card/T5MGpLBc/Billing-refunds-and-invoices-for-Academy?query=Shopify+academy+course+refund&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+, https://community.shopify.com/c/shopify-discussions/i-can-not-add-multiple-pictures-for-my-variants/m-p/2416533,1,,,,,
+, https://shopify-support.slack.com/archives/C02JL9T7684/p1726742072176839,1,,,,,
+,"-  [option to update pin in admin doesnt' show here as expected either](https://help.shopify.com/en/manual/sell-in-person/shopify-pos/pin-recovery#create-or-change-a-pos-pin:~:text=From%20your%20Shopify%20admin%2C%20go%20to%20Settings%20%3E%20Users,Click%20Save.)
+
+- https://app.getguru.com/card/TBbMAbAc/POS-Staff-Logins-PINs-Key-information",1,,,,,
+,"-  https://app.getguru.com/card/RcAx4xgc/Capital-Update-Merchant-Bank-Account-Information-for-MCAs-and-Loans-Key-information
+",1,,,,,
+,- [Abandoned Checkout Errors - Intro - Key information | Guru](https://app.getguru.com/card/qcE6dpXc/Abandoned-Checkout-Errors-Intro-Key-information?query=payment+error+at+checkout&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,- [Apple Pay for Support Advisors - Troubleshooting - Unable to purchase errors | Guru](https://app.getguru.com/card/iGkznxAT/Apple-Pay-for-Support-Advisors-Troubleshooting-Unable-to-purchase-errors),1,,,,,
+,- [Billing - App Refund Requests from Merchants | Guru](https://app.getguru.com/card/qc9nnBrc/Billing-App-Refund-Requests-from-Merchants?q=app+refunds),1,,,,,
+,"- [Billing - Payment Methods - Key information | Guru](https://app.getguru.com/card/TqK5da8c/Billing-Payment-Methods-Key-information)
+- [OpenSRS - Draft Domain Status | Guru](https://app.getguru.com/card/i9GR8gXT/OpenSRS-Draft-Domain-Status?query=domain+draft&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4)",1,,,,,
+,- [Billing - Subscription Refund Policy - Cancellations and Downgrades - Key information | Guru](https://app.getguru.com/card/kcRjj69c/Billing-Subscription-Refund-Policy-Cancellations-and-Downgrades-Key-information?query=billing+refund&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,"- [Billing - Troubleshooting INR Billing | Guru](https://app.getguru.com/card/iRA48kBT/Billing-Troubleshooting-INR-Billing?query=india+billing&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4)
+- [Shopify Help Center | Paying your Shopify bills in India](https://help.shopify.com/en/manual/your-account/manage-billing/paying-your-bills/making-payments/account-billing-india/india-pay-bills)",1,,,,,
+,- [Domain Renewal in Grace Period | Guru](https://app.getguru.com/card/kiRjjzyi/Domain-Renewal-in-Grace-Period),1,,,,,
+,- [Post-purchase upsell apps - Intro | Guru](https://app.getguru.com/card/c96ng7di/Postpurchase-upsell-apps-Intro),1,,,,,
+,"- [Shopify Help Center | TWINT](https://help.shopify.com/en/manual/payments/shopify-payments/local-payment-methods/twint)
+- [Local Payment Methods - TWINT - Key information | Guru](https://app.getguru.com/card/cRr7qR9i/Local-Payment-Methods-TWINT-Key-information?q=TWINT)",1,,,,,
+,- [Shopify Payments - Chargebacks FAQ | Guru](https://app.getguru.com/card/AcBp4Egc/Shopify-Payments-Chargebacks-FAQ),1,,,,,
+,"- [Shopify Payments - Setup - Troubleshooting - Cannot complete setup / Setup issues | Guru](https://app.getguru.com/card/kTRjRR6T/Shopify-Payments-Setup-Troubleshooting-Cannot-complete-setup-Setup-issues?query=shopify+payments+onboarding+issues&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4)
+- [Escalating tickets to Credit Risk | Guru](https://app.getguru.com/card/To9E8agc/Escalating-tickets-to-Credit-Risk?query=escalat+to+risk&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4)",1,,,,,
+,"- [Shopify Payments Payout Hold Reasons and Recommended Steps for Support | Guru](https://app.getguru.com/card/TBAr8npc/Shopify-Payments-Payout-Hold-Reasons-and-Recommended-Steps-for-Support?q=payout+hold)
+- [Shopify Payments - Supported Bank Accounts - Key information | Guru](https://app.getguru.com/card/qTE6pk7T/Shopify-Payments-Supported-Bank-Accounts-Key-information)",1,,,,,
+,"- [Shopify Shipping - Shipping labels - Return labels - Known limitations - Key information | Guru](https://app.getguru.com/card/iXn8b5oT/Shopify-Shipping-Shipping-labels-Return-labels-Known-limitations-Key-information?q=return+label)
+- [Shopify Help Center | Buying return labels using Shopify Shipping](https://help.shopify.com/en/manual/fulfillment/shopify-shipping/shipping-labels/return-labels#supported-addresses)",1,,,,,
+,- Beacon not letting me copy link. ,1,,,,,
+,"- https://accounts.shopify.com/recovery/stores
+
+- https://app.getguru.com/card/ycn965rc/Transferring-a-Paid-Theme
+
+-https://app.getguru.com/card/LTgzzByT/Billing-Unknown-Charge-Payment-Method-Removal
+
+",1,,,,,
+,"- https://admin.shopify.com/store/z937gx-pj/settings/billing/invoice/372542017
+- https://admin.shopify.com/store/z937gx-pj/settings/billing/invoice/376031881",1,,,,,
+,- https://app.getguru.com/card/5cjzzebc/Billing-Renewing-Domains-During-the-Redemption-Period?query=domains+in+redemption+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,- https://app.getguru.com/card/9ce66b5c/Shopify-Payments-Reserves-Key-information?query=reserve+funds,1,,,,,
+,"- https://app.getguru.com/card/9TeAgRyT/Partner-Payments-Payouts?query=partner+earnings
+- https://help.shopify.com/en/affiliates/earnings",1,,,,,
+,"- https://app.getguru.com/card/airqj4oi/Shopify-Plus-Partners-Plus-Sandbox-Store-
+- https://app.getguru.com/card/cgMpxMRi/Feature-test-drive-Overview",1,,,,,
+,"- https://app.getguru.com/card/aTz8kkET/Conversion-Summary-Order-Page-Key-information
+
+- https://app.getguru.com/card/cq85bK9i/Facebook-Instagram-Supporting-the-Channel",1,,,,,
+,- https://app.getguru.com/card/aTzMEn5T/Determining-ThemeRelated-Issues-Theme-Troubleshooting,1,,,,,
+,"- https://app.getguru.com/card/cA4bkrAi/Store-Credit-Key-information
+
+- https://app.getguru.com/card/TgM8L76c/Core-Product-Store-Credit-Overview
+
+- https://app.getguru.com/card/ijKnBeET/POS-Refund-to-gift-cardstore-credit-Key-information",1,,,,,
+,- https://app.getguru.com/card/cBxe4xgi/Shopify-Credit-Introduction-Key-Information,1,,,,,
+,- https://app.getguru.com/card/cg886rqi/Shopify-Shipping-Shipping-labels-Troubleshooting-There-was-a-problem-buying-shipping-labels-Review-order-details-and-try-again-Something-went-wrong-Try-again,1,,,,,
+,- https://app.getguru.com/card/cMekM4di/POS-Pro-Yearly-Subscription-Terms,1,,,,,
+,- https://app.getguru.com/card/cpzq4y9i/Balance-Escalation-Macros?query=balance+escalation,1,,,,,
+,"- https://app.getguru.com/card/cr8GKjAi/Partners-collaborator-store-not-appearing-in-store-switcher
+- Guru not accessible by SA",1,,,,,
+,- https://app.getguru.com/card/cydqe9di/MarketsThemes-Contextual-changes-to-theme-not-available-and-market-removed-without-taking-action,1,,,,,
+,- https://app.getguru.com/card/czppELAi/Apps-Troubleshooting-Unable-to-reinstall-or-install,1,,,,,
+,"- https://app.getguru.com/card/eT8RnknT/Theme-Support-Supported-Customizations
+
+- https://app.getguru.com/card/RcApbqkc/Theme-Support-Unsupported-Customizations
+
+- https://app.getguru.com/card/iBB8ppnT/Theme-Support-Escalating-Custom-Solutions",1,,,,,
+,"- https://app.getguru.com/card/i6z4GgyT/How-to-CloseCancel-a-Merchants-Store-on-their-behalf
+- https://app.getguru.com/card/ycn965rc/Transferring-a-Paid-Theme
+- https://app.getguru.com/card/KcXjj6kc/Billing-Reactivating-Shops-Temporarily
+- https://app.getguru.com/card/KcXjj6kc/Billing-Reactivating-Shops-Temporarily",1,,,,,
+,- https://app.getguru.com/card/i8egkKrT/Search-Discovery-Various-Issues-with-Storefront-Search-and-Filters,1,,,,,
+,- https://app.getguru.com/card/innxL4gT/Shop-Pay-Installments-Merchant-Experience-Key-Information,1,,,,,
+,- https://app.getguru.com/card/ioeqazeT/Shopify-Payments-United-States-PayPal-Wallet-Key-information?query=%E2%9C%97+PayPal+wallet+not+active%3A+Pending,1,,,,,
+,"- https://app.getguru.com/card/ixbygzbT/Shopify-Payments-United-States-Receiving-multiple-payouts-per-day-Troubleshooting-?query=multiple+payouts+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4
+- https://app.getguru.com/card/ziLkzzKi/Shopify-Payments-United-States-SP-US-Key-information?query=Shopify+Payments+united+states+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4",1,,,,,
+,- https://app.getguru.com/card/iyaK4BbT/Email-forwarding-Shopify-domain-emails-not-forwarding,1,,,,,
+,- https://app.getguru.com/card/izdx97eT/Customers-are-reporting-the-error-Your-card-was-declined-Try-again-or-use-a-different-payment-method-at-checkout-Stripe-Risk-Declines,1,,,,,
+,- https://app.getguru.com/card/KiXjKbMi/Theme-Support-Supported-Themes-including-not-in-Theme-Store?query=vintage+themes,1,,,,,
+,- https://app.getguru.com/card/pcqna6rc/Shopify-Payments-Failed-Payouts,1,,,,,
+,- https://app.getguru.com/card/qi9nj6Ki/Transferring-out-domains-Transferring-couk-eu-be-de-za-re-nl-nz-se-ph-ec-es-Domains,1,,,,,
+,- https://app.getguru.com/card/RcApbqkc/Theme-Support-Unsupported-Customizations,1,,,,,
+,"- https://app.getguru.com/card/RiARg8ai/Shopify-Payments-Merchants-customer-claiming-to-be-charged-Authorizations-vs-Charges
+
+- https://app.getguru.com/card/LTgzzByT/Billing-Unknown-Charge-Payment-Method-Removal?query=squatting&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4",1,,,,,
+,- https://app.getguru.com/card/T6BqXMXc/Analytics-Cost-of-goods-sold-COGS-report-troubleshooting-guide,1,,,,,
+,- https://app.getguru.com/card/T6pXb78c/Google-YouTube-Channel-Product-Reviews-Star-Ratings-on-Google-Shopping,1,,,,,
+,- https://app.getguru.com/card/TAgzGgKc/Domains-Domain-Verification-Statuses,1,,,,,
+,"- https://app.getguru.com/card/TARr9Bqc/New-Analytics-Unified-Analytics-Key-information
+- https://app.getguru.com/card/cR5xrGXi/Shopify-New-Analytics-Unified-Analytics-Troubleshooting-How-data-is-displayed-in-new-reports",1,,,,,
+,- https://app.getguru.com/card/TEx9EEKc/Merchant-Verification-Merchant-Says-They-did-not-Receive-an-Email,1,,,,,
+,- https://app.getguru.com/card/TGkKLxqc/International-Shopify-Markets-Languages-Translations-Key-information,1,,,,,
+,"- https://app.getguru.com/card/TjRn6pxc/Legacy-Shopify-Markets-Price-Customisations-Fixed-Compare-at-Adjustments-Key-information
+- https://help.shopify.com/en/manual/international/pricing/product-prices-by-country",1,,,,,
+,- https://app.getguru.com/card/TK9k9GGc/Admin-500-Error-Theres-a-problem-loading-this-page?query=500+error+on+gift+card+page&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,- https://app.getguru.com/card/TkEEMLgc/Shopify-Payments-Klarna,1,,,,,
+,- https://app.getguru.com/card/TMzzabec/Sitemap-Fetch-Errors-in-Google-Search-Console-,1,,,,,
+,- https://app.getguru.com/card/TnAA5Eac/Managed-Markets-Refunds-and-Returns-Key-information,1,,,,,
+,- https://app.getguru.com/card/TnaKb7Rc/Markets-and-Localization-Troubleshooting-Content-differences-between-Theme-Editor-and-Live-Site,1,,,,,
+,"- https://app.getguru.com/card/TrjE6xac/Billing-Upgrading-Monthly-Plans-Key-information
+- No specific resource for this request but have seen it be denied before. ",1,,,,,
+,- https://app.getguru.com/card/TxXa9LKc/Shopify-Partner-Program-How-to-Help-a-Partner-With-Questions-About-their-Tier-,1,,,,,
+,"- https://app.getguru.com/card/TypdKj8c/Partner-Payouts-Hyperwallet-FAQs
+",1,,,,,
+,- https://app.getguru.com/card/ycyarrac/Shopify-Payments-Availability-Country-Overview-,1,,,,,
+,- https://help.shopify.com/en/manual/products/add-update-products#product-availability,1,,,,,
+,- https://incidents.shopify.io/incidents/10357/support_information,2,,,,,
+,- https://merchant-frustrations.shopifycloud.com/features/25267,1,,,,,
+,"- https://shopify.click/15a70-wobid-j3uji-86e0g-7jirs.png
+- https://app.getguru.com/card/Taej9Mzc/Shopify-VIP-Executive-Engagement-Requests-",1,,,,,
+,- N/A,13,,,,,
+,- N/A ,4,,,,,
+,- N/A No particular resource for this exact query. ,1,,,,,
+,- N/A Only references to UCC -1,1,,,,,
+,- N/A specific case. ,1,,,,,
+,- NA,12,,,,,
+,"- No resource connected to the issue.
+- Closest GC used: https://app.getguru.com/card/T4zbKdXc/General-Troubleshooting-Reindex ",1,,,,,
+,"- No resource on this specific behaviour. 
+- https://app.getguru.com/card/TR4bBdjc/Theme-Updates-Key-information",1,,,,,
+,- No resources/3rd party section ,1,,,,,
+,- No specific resource for this exact query but this has already been escalated up. ,1,,,,,
+,- refund for domains and removal of draft status option is not available to SA's so collaboration okay,1,,,,,
+,- Resources are not available. Just need to manually check their theme coding,1,,,,,
+,"- Similar issue found in this slack thread here: https://shopify-support.slack.com/archives/C02F5AHT78U/p1748449319829799
+- [Local Payment Methods - TWINT - Key information | Guru](https://app.getguru.com/card/cRr7qR9i/Local-Payment-Methods-TWINT-Key-information?query=Twint+disabled&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4)",1,,,,,
+,- Slack thread which mentions a similar issue: https://shopify-support.slack.com/archives/C02F5AHT78U/p1749179820333519,1,,,,,
+,[[TMS] Shopify Payments issue ownership between TMS/Money | Guru](https://app.getguru.com/card/iydRzojT/TMS-Shopify-Payments-issue-ownership-between-TMSMoney?query=payments+not+getting+processed+checkout+Shopify+payments+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4&collection=20589dfc-2b11-43d2-8640-bc935af8112e&sourceType=Guru),1,,,,,
+,[**Shopify Shipping - Carrier Calculated Shipping (CCS) | Guru**](https://app.getguru.com/card/eck4jzjc/Shopify-Shipping-Carrier-Calculated-Shipping-CCS),1,,,,,
+,[Domains - Purchasing a .HU domain | Guru](https://app.getguru.com/card/T98x6d5c/Domains-Purchasing-a-HU-domain),1,,,,,
+,[Incident](https://incidents.shopify.io/incidents/10427/support_information),1,,,,,
+,[Shop Campaigns - Managing offers - Key information | Guru](https://app.getguru.com/card/iAq7EKyT/Shop-Campaigns-Managing-offers-Key-information?query=no+longer+eligible+to+advertise+on+Shop&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,[Shopify Balance - Balance Cards | Guru](https://app.getguru.com/card/T7zrGq6c/Shopify-Balance-Balance-Cards?query=Your+card+is+locked+and+currently+can%27t+be+used+for+this+purchase.+Shopify+Balance&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,[Shopify Credit - Repayments - Key information | Guru](https://app.getguru.com/card/c75LEBxi/Shopify-Credit-Repayments-Key-information?query=Shopify+credit+payment+fail&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,"[Shopify Help Center | Managing Multi-Currency Payouts with Shopify Payments](https://help.shopify.com/en/manual/payments/shopify-payments/store-currency/payouts-in-multiple-currencies)
+
+",1,,,,,
+,[Shopify Help Center | Set up inventory tracking](https://help.shopify.com/en/manual/products/inventory/getting-started-with-inventory/set-up-inventory-tracking?utm_source=sidekick),1,,,,,
+,[Shopify Payments - Allowlist information - Key information | Guru](https://app.getguru.com/card/XT6MooKT/Shopify-Payments-Allowlist-information-Key-information?query=ACH+id+Shopify+payments+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,[Shopify Payments - Payout Statuses | Guru](https://app.getguru.com/card/ecxLgB7c/Shopify-Payments-Payout-Statuses?query=payout+status&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4#FST7PimdJzvv),1,,,,,
+,[Shopify Payments - PayPal Wallet - Disputes | Guru](https://app.getguru.com/card/i55gaxKT/Shopify-Payments-PayPal-Wallet-Disputes?query=paypal+wallet+disputes+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,[Shopify Payments - Setup - Troubleshooting - Cannot complete setup / Setup issues | Guru](https://app.getguru.com/card/kTRjRR6T/Shopify-Payments-Setup-Troubleshooting-Cannot-complete-setup-Setup-issues?query=sp+setup+issue&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),1,,,,,
+,"[The payment diagnostics tool](https://app.shopify.com/services/internal/shops/61215277135/payments_diagnostics/show?id_type=order_id&identifier=6310358974543)
+
+[this Guru Card](https://app.getguru.com/card/cbjp9EBi/Orders-Payment-captured-but-order-says-Payment-Pending)",1,,,,,
+,[this Guru Card](https://app.getguru.com/card/ec8kpL9c/Billing-Pausing-a-Store-Pause-and-Build),1,,,,,
+,[this Guru Card](https://app.getguru.com/card/eikkbpLi/Shopify-Partners-TaxesGST-and-Partner-Invoices),1,,,,,
+,"* https://app.getguru.com/card/ibK4e7oT/Theme-Support-Theme-Troubleshooting
+* https://app.getguru.com/card/T6M74Xpc/Cookie-Compliance-Privacy-Key-Information",1,,,,,
+,"* https://app.getguru.com/card/Xi4Mokei/Updating-Bank-Account-Details-for-Shopify-Payments-Key-information
+* https://app.getguru.com/card/qTE6pk7T/Shopify-Payments-Supported-Bank-Accounts-Key-information
+* https://help.shopify.com/en/manual/payments/shopify-payments/bank-account-requirements",1,,,,,
+,* https://www.google.com/search?q=Checkout+Mercado+Pago+argentina+shows+as+%22CO%22&sca_esv=a5f19cfa0813df82&rlz=1CAOYYM_enPH1024PH1024&ei=FgNHaOWfDdSt4-EPwJDx8Aw&ved=0ahUKEwjlguf22OSNAxXU1jgGHUBIHM4Q4dUDCBA&uact=5&oq=Checkout+Mercado+Pago+argentina+shows+as+%22CO%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiLUNoZWNrb3V0IE1lcmNhZG8gUGFnbyBhcmdlbnRpbmEgc2hvd3MgYXMgIkNPIjIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIESPhaUKMOWKZYcAF4AZABAJgBgQGgAeAKqgEDOC42uAEDyAEA-AEBmAIPoAKYC8ICChAAGLADGNYEGEfCAgUQIRigAcICBRAhGJ8FwgIEECEYFZgDAIgGAZAGCJIHAzcuOKAHry6yBwM2Lji4B5ELwgcGMC4xMi4zyAcj&sclient=gws-wiz-serp,1,,,,,
+,* Slack thread (seems like undocumented knowledge so far): https://shopify-support.slack.com/archives/C032E48EZQ8/p1746788454458719,1,,,,,
+,* There isn't a clear resource that explains this known issue and how SSAs can refund domains (rapid solution). Many guru cards still list the old process where we would previously escalate.,1,,,,,
+,**[ Guru Card: Domains TransfersRemovals Troubleshooting Requests to TransferRemove Domains on Locked or Fraudulent Accounts](https://app.getguru.com/card/id9ea4MT/Domains-TransfersRemovals-Troubleshooting-Requests-to-TransferRemove-Domains-on-Locked-or-Fraudulent-Accounts?q=domain+connected+to+fraud+store)**,1,,,,,
+,**[ Guru Card: How to Change Edit the Partner Handle](https://app.getguru.com/card/cMkaxadi/How-to-Change-Edit-the-Partner-Handle)**,1,,,,,
+,**[ Guru Card: Shopify Shipping Label Price Adjustments](https://app.getguru.com/card/ycygp8Ec/Shopify-Shipping-Label-Price-Adjustments?q=shipping+label+adjustmen+ts)**,1,,,,,
+,**[Import inventory into a transfer in bulk ](https://help.shopify.com/en/manual/products/inventory/inventory-transfers/creating-and-managing-transfers#import-inventory-into-a-transfer-in-bulk)**,1,,,,,
+,"**[Shopify Payments - Payout Has Gone to the Wrong Bank Account - Key information | Guru](https://app.getguru.com/card/TqKAMggc/Shopify-Payments-Payout-Has-Gone-to-the-Wrong-Bank-Account-Key-information?q=wrong+payout+account)**
+",1,,,,,
+,**[Webhooks](https://shopify.dev/docs/api/webhooks/2025-04?reference=toml#list-of-topics-customers/update)**,1,,,,,
+,//,16,,,,,
+,Advance troubleshooting provided.,1,,,,,
+,Advised to reach out to the apps that can possibly cause the issue to narrow things down ,1,,,,,
+,"Basic: https://app.getguru.com/card/cyrMBq7i/Customers-Store-Credit-Troubleshooting-Store-credit-not-showing-at-checkout
+TMS: https://app.getguru.com/card/indR6djT/Customers-Store-Credit-not-showing-at-Checkout
+
+",1,,,,,
+,"Cancelling online local pickup orders through POS is a pretty niche resource to have.
+
+This doc offers an alternate approach: https://app.getguru.com/card/i6kakXgT/Pickup-in-store-Known-limitations?q=how+to+cancel+local+pickup
+",1,,,,,
+,Card doesn't specify if the cancellation of the store can be delayed. ,1,,,,,
+,Checked Abacus to get the full view on their Shopify payments payouts status and hold,1,,,,,
+,Checking over the settings on the admin should be enough,1,,,,,
+,Context gathering is needed for further investigation,1,,,,,
+,debit payout is stuck and needs to be re-triggered.,1,,,,,
+,Did not provide any screenshot or video recoirdmng. Just copied and paste the message sent ,1,,,,,
+,Did not share resource,1,,,,,
+,Domain was listed as draft which cannot be deleted by advisor and nor the domain refund could be processed by them,1,,,,,
+,External resource - https://help.yampi.com.br/pt-BR/articles/8429566-o-que-e-o-checkout-transparente-da-yampi,1,,,,,
+,failed to properly do visual audit before contacting SSA,1,,,,,
+,"Followed this GC https://app.getguru.com/card/LTa4956T/PayPal-Troubleshooting#issue1 and got this related thread with our #support-ssa https://shopify-support.slack.com/archives/C02F5AHT78U/p1746541310335869?thread_ts=1746539760.765479&cid=C02F5AHT78U
+
+https://app.getguru.com/card/cjX8jn5i/PayPal-Unable-to-activate-PayPal-Express Case study 5",1,,,,,
+,Found a resource from printful: https://help.printful.com/hc/en-us/articles/6148146390556-Why-are-my-orders-not-being-fulfilled-by-Printful,1,,,,,
+,Frontline staff unable to action this themselves,1,,,,,
+,Further troubleshooting required by using Browserstack: https://live.browserstack.com/dashboard#os=Windows&os_version=10&browser=Chrome&browser_version=131.0&zoom_to_fit=true&full_screen=true&resolution=responsive-mode&url=https%3A%2F%2Fscreenshot.click%2F13-07-18535-73822.png&speed=1,1,,,,,
+,"GC is unaccessible https://app.getguru.com/card/c5qnnXxi/Weve-Detected-a-Policy-Violation-With-the-Information-Youve-Provided-Error-During-Partner-Signup, so we require further guidance.",1,,,,,
+,"General DNS record check
+",1,,,,,
+,General replication,1,,,,,
+,Had to check in Abacus to look for any hold or bank account update,1,,,,,
+,http://help.shopify.com/en/manual/online-store/search-and-discovery/filters#filter-values,1,,,,,
+,https://admin.shopify.com/store/744b8b-2/apps/flow/editor/01965cce-fcb9-7d3e-8274-b84e003ae8da/01975480-6d94-78ec-8f4f-83a72b2516ec,1,,,,,
+,https://admin.shopify.com/store/shawnfinewine/orders/6359750869224,1,,,,,
+,https://admin.shopify.com/store/tvshop-online/settings/shipping/profiles/98142093614,1,,,,,
+,https://admin.shopify.com/store/vividmetalprints-integdev/discounts/1227402707043,1,,,,,
+,https://app.getguru.com/card/5ijzrrgi/Custom-Fulfillment-Service-Intro-Key-information,1,,,,,
+,https://app.getguru.com/card/5Tj5nXrT/Troubleshooting-Sales-Tax-No-Taxes-Charged-Or-Incorrect-Taxes,3,,,,,
+,https://app.getguru.com/card/5Tjd8xxT/Supporting-Technical-APIDevelopment-Questions,1,,,,,
+,https://app.getguru.com/card/5TjGAMxT/Products-Missing-Not-visible-in-Collection-Page-on-storefront-Theme-Troubleshooting,1,,,,,
+,"https://app.getguru.com/card/5Tjk6jdT/Support-Advisor-Accessing-a-Frozen-Paused-or-Cancelled-Store
+https://app.getguru.com/card/TodpGzrc/Reactivating-a-Closed-or-Frozen-Store-Key-information",1,,,,,
+,https://app.getguru.com/card/5TjXLorT/SEO-Common-Issues,1,,,,,
+,https://app.getguru.com/card/7TdgGXRT/Discount-Shareable-Link-Key-Information,1,,,,,
+,https://app.getguru.com/card/9ce66b5c/Shopify-Payments-Reserves-Key-information?query=reserved+funds&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/9ce6qxEc/URL-Redirects,1,,,,,
+,https://app.getguru.com/card/9ce85gRc/TMS-Finding-PayPal-associated-email-address,1,,,,,
+,https://app.getguru.com/card/9ieGg4oi/Only-Display-Thumbnails-for-Current-Variant-on-Vintage-Themes-Unsupported-Theme-Customization,1,,,,,
+,https://app.getguru.com/card/9TeAgRyT/Partner-Payments-Payouts,1,,,,,
+,https://app.getguru.com/card/9TerAjxT/Disabling-TwoStep-Authentication-2SA-for-Partner-Accounts-Login-Issues,1,,,,,
+,https://app.getguru.com/card/9Tezd66T/Shopify-Payments-Pay-Periods-Payout-Times,1,,,,,
+,"https://app.getguru.com/card/9Tezd66T/Shopify-Payments-Pay-Periods-Payout-Times
+https://app.getguru.com/card/ei8ajLpi/Shopify-Payments-Singapore-SP-SG",1,,,,,
+,https://app.getguru.com/card/AcBp4Egc/Shopify-Payments-Chargebacks-FAQ,3,,,,,
+,https://app.getguru.com/card/AcBp4Egc/Shopify-Payments-Chargebacks-FAQ?query=should+i+issue+a+refund+after+a+chargeback+was+opened%3F&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4#VXVTwPhsnx0c,1,,,,,
+,"https://app.getguru.com/card/AcBppxgc/Billing-Payment-Errors-Declines
+
+",1,,,,,
+,"https://app.getguru.com/card/AcBppxgc/Billing-Payment-Errors-Declines
+
+https://app.getguru.com/card/TpBkaGKc/Billing-INR-Billing-Frozen-Stores
+
+",1,,,,,
+,https://app.getguru.com/card/acrMnAGc/QR-Code-Generator-Key-information,1,,,,,
+,"https://app.getguru.com/card/acrMoMGc/Shopify-Payments-Refunds-Key-information
+
+It seems that the advisors did not check anything thoroughly. They didn't ask for any order numbers, leading to incomplete context gathering and troubleshooting. Instead, they simply requested a resolution without providing any context or errors. They contacted us directly as soon as they started the chat, without any relevant information.",1,,,,,
+,"https://app.getguru.com/card/acrMoMGc/Shopify-Payments-Refunds-Key-information
+https://help.shopify.com/en/manual/customers/store-credit
+https://app.getguru.com/card/cyrMBq7i/Customers-Store-Credit-Troubleshooting-Store-credit-not-showing-at-checkout",1,,,,,
+,"https://app.getguru.com/card/aizajdKi/Staff-Stores-Leaving-Shopify?query=alumni+plan&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4),",1,,,,,
+,https://app.getguru.com/card/aizMMBpi/Billing-Autogenerated-Credits-Subscription-Commission-App-and-Shipping,1,,,,,
+,https://app.getguru.com/card/aizMMBpi/Billing-Autogenerated-Credits-Subscription-Commission-App-and-Shipping?query=shipping+credits&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/aTrMzX9T/Product-CSV-Common-Issues,1,,,,,
+,"https://app.getguru.com/card/aTrMzX9T/Product-CSV-Common-Issues
+https://help.shopify.com/en/manual/products/import-export/using-csv",1,,,,,
+,https://app.getguru.com/card/aTrMzX9T/Product-CSV-Common-Issues?query=csv&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/aTzMEn5T/Determining-ThemeRelated-Issues-Theme-Troubleshooting,1,,,,,
+,"https://app.getguru.com/card/aTzMEn5T/Determining-ThemeRelated-Issues-Theme-Troubleshooting
+https://app.getguru.com/card/Xi4kyxgi/Theme-Support-Escalating-to-Theme-Support",1,,,,,
+,https://app.getguru.com/card/aTzMEn5T/Determining-ThemeRelated-Issues-Theme-Troubleshooting?query=theme+bug&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/c5qnnXxi/Weve-Detected-a-Policy-Violation-With-the-Information-Youve-Provided-Error-During-Partner-Signup,1,,,,,
+,"https://app.getguru.com/card/c6E4Lqzi/Troubleshooting-Google-Tag-Manager
+",1,,,,,
+,https://app.getguru.com/card/c6RdKA7i/Draft-order-invoice-No-response-when-clicking-Pay-now-Specified-customer-info-should-match-the-logged-in-customer-account-via-Shop-Pay,1,,,,,
+,https://app.getguru.com/card/c6xaXAAi/Markets-Pro-Orders-Cancelled-Unexpectedly-Without-Reason,1,,,,,
+,https://app.getguru.com/card/c75LEBxi/Shopify-Credit-Repayments-Key-information,1,,,,,
+,https://app.getguru.com/card/c75LEBxi/Shopify-Credit-Repayments-Key-information?query=shopify+credit&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/c7aELdki/Sales-Tax-Overrides-Product-and-shipping,1,,,,,
+,https://app.getguru.com/card/c7zrGEGi/Shopify-Balance-Transfer-Funds-Key-Information,1,,,,,
+,https://app.getguru.com/card/c84oxyai/Offsite-Payment-Payment-successful-but-no-order-created,1,,,,,
+,https://app.getguru.com/card/c8g7zMyi/Checkout-Abandoned-Checkouts-Emails - closest Guru card that we are able to locate,1,,,,,
+,https://app.getguru.com/card/c8yBoggi/Channel-Expectations-Stale-Interactions,1,,,,,
+,https://app.getguru.com/card/c9dRq69i/Theme-Editor-Header-Navigation-Menu-edit-button-loads-a-blank-Menu-page-in-the-store-admin,1,,,,,
+,https://app.getguru.com/card/c9pggxdi/Customer-Segmentation-Limitations,1,,,,,
+,https://app.getguru.com/card/c9x5npri/Shopify-Payments-Unable-to-addchange-the-bank-connected-to-Shopify-Payments,1,,,,,
+,https://app.getguru.com/card/caAeakqi/Checkouts-Indefinitely-loadingUnresponsive-Pay-now-button-at-checkout-with-no-error-message,1,,,,,
+,"https://app.getguru.com/card/caAeakqi/Checkouts-Indefinitely-loadingUnresponsive-Pay-now-button-at-checkout-with-no-error-message
+
+",1,,,,,
+,https://app.getguru.com/card/caEaE5ei/Legal-forms-Signature-must-match-your-full-name-error,1,,,,,
+,https://app.getguru.com/card/cagaKk4i/Checkout-Editor-Changes-made-to-the-checkout-logo-are-not-being-saved,1,,,,,
+,https://app.getguru.com/card/cagR8jai/Inventory-Product-with-zero-inventory-is-still-receiving-orders-despite-the-selling-when-out-of-stock-option-not-enabled,3,,,,,
+,https://app.getguru.com/card/caxBBX7i/Customer-AccountOrders-How-Did-The-Customer-Place-An-Order-Via-New-Customer-Accounts-When-Store-Is-Set-To-Legacy-Customer-Accounts,1,,,,,
+,https://app.getguru.com/card/caxKRjai/Store-Migration-Merchant-received-Generic-error-Something-Went-Wrong-please-try-again-when-using-a-CSV-to-upload-products-on-the-Store-Migration-app,1,,,,,
+,https://app.getguru.com/card/cb5j9d7i/Checkout-Add-to-Cart-Limit,1,,,,,
+,https://app.getguru.com/card/cBEX5zRi/Merchant-Says-They-Did-Not-Receive-an-Email-From-Trust-Safety,1,,,,,
+,https://app.getguru.com/card/cBgjxGgi/Shopify-Collective-Frequently-Asked-Questions-FAQ,1,,,,,
+,https://app.getguru.com/card/cBGkLBXi/Shopify-Email-Bounced-Unsubscribed-Reported-as-Spam-Key-information,1,,,,,
+,https://app.getguru.com/card/cBgXrpki/Facebook-Instagram-Facebook-UTM-parameters,1,,,,,
+,"https://app.getguru.com/card/cbjp9EBi/Orders-Payment-captured-but-order-says-Payment-Pending
+",1,,,,,
+,https://app.getguru.com/card/cbp48MAi/Shopify-Collective-Product-Inventory-not-Syncing-,1,,,,,
+,https://app.getguru.com/card/cbXoerAi/Domains-Connect-Subdomain-As-Only-Primary-Domain,1,,,,,
+,https://app.getguru.com/card/cdG9MX7i/Inventory-GraphQL-error-when-acceptingrejecting-Inventory-Transfers-Timeout-Status-500-502,1,,,,,
+,https://app.getguru.com/card/cdy66M5i/Notifications-Notification-template-changed-unexpectedly,1,,,,,
+,https://app.getguru.com/card/ce9k9X4i/Escalating-tickets-to-App-Review-team,1,,,,,
+,https://app.getguru.com/card/cedkyoei/ABC-analysis-by-product,1,,,,,
+,https://app.getguru.com/card/cejo5kEi/Orders-Order-placed-by-customer-but-order-creation-was-delayed-in-admin,1,,,,,
+,https://app.getguru.com/card/ceKbxG5i/SettingsGeneralBilling-information-Canadian-merchant-encounters-a-Street-is-invalid-error-when-entering-their-business-address,1,,,,,
+,https://app.getguru.com/card/cepEp7ei/Encouraging-unique-SKUs-Key-information,1,,,,,
+,https://app.getguru.com/card/cepq5gRi/Shop-Channel-Collections-Key-information,1,,,,,
+,https://app.getguru.com/card/ceXa8bRi/Shopify-Shipping-Shipping-Profiles-Troubleshooting-Rates-are-showing-but-are-not-correct?query=rates+not+showing+at+checkout+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/cEz5GGgi/Customer-AccountMarketCustomers-clicking-the-Shop-link-on-the-Account-page-are-redirected-to-the-primary-domain-instead-of-their-marketspecific-domain,1,,,,,
+,https://app.getguru.com/card/cg5jrdgi/Shipping-Unable-to-editdelete-Shipping-zones-Getting-error-To-edit-this-profile-1-change-is-required-,1,,,,,
+,https://app.getguru.com/card/cG6M8yji/Shopify-Email-Batching-Send-status-failed-delivery-performance-reports,1,,,,,
+,"https://app.getguru.com/card/cGBBBEyi/Products-Prices-rounding-up
+https://app.getguru.com/card/ig9ap5oT/Orders-Product-price-set-does-not-match-line-item-price-in-order",1,,,,,
+,https://app.getguru.com/card/cGBggqei/Shopify-Payments-iDEAL,1,,,,,
+,https://app.getguru.com/card/cgELe7qi/Shopify-Tax-Filing-and-Remittance-,1,,,,,
+,https://app.getguru.com/card/cGeMGxgi/Orders-Order-timeline-shows-Selfserve-web-sent-a-confirmation-email-to-the-customer,1,,,,,
+,https://app.getguru.com/card/cGRn88Ei/Files-Store-hitting-storage-limit-despite-not-having-much-media-uploaded-stale-data-inflating-storage,1,,,,,
+,https://app.getguru.com/card/cgxr6rAi/Theme-Editor-Staff-Member-get-the-error-message-Failed-to-load-the-page-accessing-the-Theme-Editor,1,,,,,
+,https://app.getguru.com/card/cGzBdjLi/Shopify-Collabs-Community-Guidelines-for-Creators-Key-Information,1,,,,,
+,https://app.getguru.com/card/cjedzeAi/Orders-Inventory-Fulfilled-or-Cancelled-orders-still-show-committed-inventory-for-products,1,,,,,
+,https://app.getguru.com/card/cjX8jn5i/PayPal-Unable-to-activate-PayPal-Express,2,,,,,
+,"https://app.getguru.com/card/ck496xAi/TMS-Cant-Access-StorefrontAdmin-TroubleshootingThis-site-cant-be-reachedISP-Issues-Checklist-
+https://app.getguru.com/card/iMpKkpjT/Traceroute-Shopify-Debug-cdncgitrace-for-Troubleshooting-Connection-Issues",1,,,,,
+,https://app.getguru.com/card/cK6kGnqi/Products-Product-orvariant-unexpectedlydeleted,2,,,,,
+,https://app.getguru.com/card/ckdp9Kki/Billing-Apply-Manual-Trial-Extensions,1,,,,,
+,https://app.getguru.com/card/ckeXKGGi/Downgrades-Linked-to-Billing-Cycle,1,,,,,
+,https://app.getguru.com/card/ckKxzk7i/Facebook-Instagram-Domain-Verification-?query=Facebook+domain+verification&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/cKM4LRqi/Customers-SMS-not-subscribed-Despite-Customer-Providing-Consent-at-Checkout,1,,,,,
+,"https://app.getguru.com/card/ckqrKy7i/Domains-MerchantCustomer-is-seeing-a-message-indicating-their-site-is-blocked-because-it-is-a-known-security-threat-with-indication-of-Malware-and-Phishing
+
+https://app.getguru.com/card/zcLyzbLc/Storefront-Traceroutes-and-Traces-Troubleshooting-Diagnosing-widespread-connection-issues",1,,,,,
+,https://app.getguru.com/card/cL9qnjXi/Orders-Imported-orders-via-third-party-app-do-not-respect-original-order-date,1,,,,,
+,https://app.getguru.com/card/cLR9qayi/Shopify-Shipping-DPD-Evri-Rate-ChangeIncrease-Key-Information,1,,,,,
+,https://app.getguru.com/card/cLyBpEoi/B2B-Features-Catalogs-and-Pricing,1,,,,,
+,https://app.getguru.com/card/cMenaKRi/Bundles-Orders-Purchased-bundle-product-is-missing-items-in-the-created-order,1,,,,,
+,https://app.getguru.com/card/cMkyyEri/Shopify-Collective-Merchant-Eligibility,3,,,,,
+,https://app.getguru.com/card/cMnkqELi/SSA-Billing-Playbook-Deleting-Domain-Draft-on-OpenSRS?q=delete+draft+status,1,,,,,
+,https://app.getguru.com/card/cn5pznri/Users-Access-denied-for-MutationcollaboratorAccept-error-when-Store-Owner-accept-the-request-from-their-Collaborator,1,,,,,
+,https://app.getguru.com/card/cn97LX4i/Shopify-Balance-Transactions-and-Statements,2,,,,,
+,https://app.getguru.com/card/cnABGori/Collabs-Creator-FAQ-Frequently-asked-questions,1,,,,,
+,https://app.getguru.com/card/co4R8jqi/Order-Editing-Key-information,1,,,,,
+,https://app.getguru.com/card/co6pzEAi/Discrepancies-between-Online-Store-Conversion-Rate-and-orders-placed-on-Online-Store-channel,2,,,,,
+,https://app.getguru.com/card/co8ybr9i/Shopify-Shipping-Shipping-settings-Troubleshooting-Unable-to-add-calculated-rates-for-thirdparty-fulfillment-app,1,,,,,
+,https://app.getguru.com/card/cpApqpAi/Facebook-Instagram-Orders-Refunding-a-Meta-Order,1,,,,,
+,"https://app.getguru.com/card/cpBMjeAi/Collabs-Automatic-Payouts-for-Creators
+
+https://app.getguru.com/card/TbARyb8c/Collabs-Merchant-FAQ-Frequently-Asked-Questions
+
+no resource indicate clear next steps for when a collab account gets disabled",1,,,,,
+,https://app.getguru.com/card/cpLLy4pi/DMARC-DKIM-Troubleshooting-tips,1,,,,,
+,https://app.getguru.com/card/cq4M5rki/Shopify-Payments-Debiting-Negative-Balances-Key-information,1,,,,,
+,"https://app.getguru.com/card/cq4M5rki/Shopify-Payments-Debiting-Negative-Balances-Key-information
+
+https://help.shopify.com/en/manual/finance/shopify-balance/managing-account/transactions#transferring-balance",1,,,,,
+,https://app.getguru.com/card/cq85bK9i/Facebook-Instagram-Supporting-the-Channel,2,,,,,
+,https://app.getguru.com/card/cq8rMXri/Shop-Channel-Product-reviews-for-merchants-Key-information,1,,,,,
+,https://app.getguru.com/card/cr4A65Ri/Domains-Purchasing-a-IT-domain,2,,,,,
+,https://app.getguru.com/card/cR5Ebq9i/Theme-Access-App-Invalid-API-key-or-access-token,1,,,,,
+,https://app.getguru.com/card/cR9LAGri/Capital-Funding-Usage-Key-information,1,,,,,
+,https://app.getguru.com/card/crAEaLGi/Multicurrency-Currency-selector-is-not-converting-on-the-first-click,1,,,,,
+,https://app.getguru.com/card/crKq5kxi/Domains-Pointing-a-Domain-to-Shopify,1,,,,,
+,https://app.getguru.com/card/crLMeyEi/Shopify-Email-Customer-Segment-list-is-showing-0-subscribers-,1,,,,,
+,https://app.getguru.com/card/cRoBxgGi/Merchant-Spending-Lending-Support-Escalation-Macros,3,,,,,
+,https://app.getguru.com/card/crRKxkxi/Staff-accounts-Staff-accounts-automatically-deleteddisappearing-after-accepting-invite,1,,,,,
+,https://app.getguru.com/card/cx4EMyEi/Collabs-Collabs-programs,1,,,,,
+,https://app.getguru.com/card/cxe9arRi/Domain-Squatting-A-store-with-that-domain-name-already-exists,1,,,,,
+,https://app.getguru.com/card/cXeE8jki/Open-Learning-program-Intro,1,,,,,
+,https://app.getguru.com/card/cXpEjnei/Partner-Support-Plus-Referrals-,1,,,,,
+,https://app.getguru.com/card/cyBAK6gi/SSA-Billing-Playbook-Applying-Credits-to-Pending-Invoices,1,,,,,
+,https://app.getguru.com/card/cydqe9di/MarketsThemes-Contextual-changes-to-theme-not-available-and-market-removed-without-taking-action,1,,,,,
+,https://app.getguru.com/card/cydyoAyi/Partner-Referral-Incentive-3-Tiered-Incentive-for-Standard-Merchant-Referrals-?query=You+are+eligible+to+receive+one+of+the+following+rewards+based+on+the+number+of+development+store+referrals+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/cye6Megi/Shopify-Limitations,1,,,,,
+,https://app.getguru.com/card/cyepeydi/Billing-Domain-AutoFully-Refunded-and-Failed,2,,,,,
+,"https://app.getguru.com/card/cyrLgaxi/Suspended-Products-and-Content
+
+Does not specify that the owner is the only one able to submit a product suspension appeal",1,,,,,
+,https://app.getguru.com/card/czAL4pdi/Shopify-Collective-Product-and-Inventory-Sync,1,,,,,
+,https://app.getguru.com/card/czbzpzki/Store-Settings-Currency-formatting-not-reflecting-correctly-on-Store-front-Notifications-or-Checkout,1,,,,,
+,https://app.getguru.com/card/czKR64ki/Clearing-browser-cache-cookies-and-other-temporary-data-for-merchants,1,,,,,
+,https://app.getguru.com/card/czppELAi/Apps-Troubleshooting-Unable-to-reinstall-or-install,3,,,,,
+,"https://app.getguru.com/card/czppELAi/Apps-Troubleshooting-Unable-to-reinstall-or-install
+https://app.getguru.com/card/T9p675zc/Third-Party-Channel-Spotify-for-Artists
+https://app.getguru.com/card/izpqbapT/Third-Party-Channels-Support-Paths-Key-information",1,,,,,
+,"https://app.getguru.com/card/czR9kBki/Local-Currency-Billing-Changing-a-merchants-billing-currency
+
+https://app.getguru.com/card/TKzrzxEc/Billing-INR-Address-Requirements-Change-Troubleshooting-
+",1,,,,,
+,https://app.getguru.com/card/eck4jzjc/Shopify-Shipping-Carrier-Calculated-Shipping-CCS,3,,,,,
+,https://app.getguru.com/card/eck4jzjc/Shopify-Shipping-Carrier-Calculated-Shipping-CCS?query=CCS&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/eck4xxjc/Shopify-Payments-United-Kingdom-SP-UK,1,,,,,
+,https://app.getguru.com/card/ecoXnLKc/Shopify-Payments-Order-Processed-with-Wallet-Apple-Pay-Google-Pay-etc-while-in-Test-Mode,1,,,,,
+,https://app.getguru.com/card/ecxLgB7c/Shopify-Payments-Payout-Statuses,1,,,,,
+,https://app.getguru.com/card/ecxLgB7c/Shopify-Payments-Payout-Statuses?query=payouts+scheduled&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/ei8Kbqri/Shopify-Shipping-Shipping-labels-Return-labels-Key-information,1,,,,,
+,https://app.getguru.com/card/eioMAAbi/Adding-Color-Swatches-to-Vintage-Themes-Unsupported-Theme-Customization,1,,,,,
+,https://app.getguru.com/card/eioqneei/Buy-Button-Troubleshooting,1,,,,,
+,https://app.getguru.com/card/eT8kGenT/Live-View-Key-information,1,,,,,
+,https://app.getguru.com/card/eT8RnknT/Theme-Support-Supported-Customizations,1,,,,,
+,https://app.getguru.com/card/eTk6LqrT/Shopify-Shipping-Shipping-Labels-Troubleshooting-Label-Purchase-and-Checkout-Shipping-Rates-Dont-Match-Shipping-Label-Cost-is-Different-Higher-More-than-the-Customer-Paid,2,,,,,
+,https://app.getguru.com/card/eTk6peyT/Shop-Pay-Merchants-Key-information,1,,,,,
+,https://app.getguru.com/card/eTokjorT/Apple-Pay-Verify-Domain-Registration-VisibilityPayment-Not-Completed,1,,,,,
+,"https://app.getguru.com/card/eTx8gX5T/Capital-Repayments-Loans
+https://app.getguru.com/search?query=Will+there+be+any+impact+on+the+merchants+Shopify+Capital+Status+if+they+will+receive+3+Chargebacks+that+occurred+on+their+loan+repayment+transactions%3F&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4",1,,,,,
+,https://app.getguru.com/card/i48o4XoT/Shopify-Flow-App-Support-Advisors,1,,,,,
+,https://app.getguru.com/card/i4B4xBoT/Orders-CPFCNPJ-Not-Displaying-on-Orders-Despite-Required-at-Checkout-Brazil,1,,,,,
+,https://app.getguru.com/card/i4BLrXjT/SSA-Resource-Domain-3rd-party-transfers-specifically-DE-auth-codes-CoUK-IPS-Tag-and-generating-new-Auth-Codes-for-all-TLD,1,,,,,
+,https://app.getguru.com/card/i4oGGGeT/Featured-Image-Not-Displaying-by-Default-on-Product-Pages-Theme-Troubleshooting,1,,,,,
+,"https://app.getguru.com/card/i55gaxKT/Shopify-Payments-PayPal-Wallet-Disputes
+
+https://help.shopify.com/en/manual/payments/paypal/paypal-seller-protection",1,,,,,
+,https://app.getguru.com/card/i58bMKKT/Shopify-Translate-Adapt-Known-Issues-Limitations,1,,,,,
+,https://app.getguru.com/card/i5A9gGXT/Developer-Support-Troubleshooting-APIs-Key-Information,1,,,,,
+,"https://app.getguru.com/card/i5A9gGXT/Developer-Support-Troubleshooting-APIs-Key-Information
+
+https://shopify.dev/docs/api/admin-graphql/unstable/queries/fulfillmentOrders
+
+https://app.getguru.com/card/ce9k9X4i/Escalating-tickets-to-App-Review-team
+
+https://app.getguru.com/card/i8RnqzrT/Access-Scope-Requests-APIs-that-are-restricted#TxlQ9dh3xphF",1,,,,,
+,"https://app.getguru.com/card/i5A9gGXT/Developer-Support-Troubleshooting-APIs-Key-Information
+https://shopify.dev/docs/api/web-pixels-api/standard-events/checkout_completed
+https://app.getguru.com/card/iMLEX8xT/Third-Party-Channel-Pinterest
+https://app.getguru.com/card/ycyMj6Ec/Draft-orders-Key-information",1,,,,,
+,https://app.getguru.com/card/i5A9gGXT/Developer-Support-Troubleshooting-APIs-Key-Information?query=restAdminAPI&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/i5kpXnET/TikTok-Channel-TikTok-Shop-Products-disapproved-Products-not-syncing-,2,,,,,
+,https://app.getguru.com/card/i5xoBAyT/Analytics-Gift-Card-Balance-Report-is-showing-inaccurate-open-and-closing-balance-values-,1,,,,,
+,"https://app.getguru.com/card/i6kakXgT/Pickup-in-store-Known-limitations
+https://app.getguru.com/card/TGxXeRzc/pickup-in-store-Incorrect-pickup-address-provided-to-customers-orders-shows-different-pickup-in-store-locations
+https://app.getguru.com/card/codaEdoi/pickup-in-store-Wrong-location-chosen-when-editing-order-adding-products
+https://shopify-support.slack.com/archives/C034B096E/p1742473973055149",1,,,,,
+,"https://app.getguru.com/card/i7zrGpaT/Shopify-Balance-Switch-payout-account
+https://app.getguru.com/card/Xi4Mokei/Updating-Bank-Account-Details-for-Shopify-Payments-Key-information
+https://help.shopify.com/en/manual/finance/shopify-balance/payouts/payout-accounts#change-your-payout-account
+https://app.getguru.com/card/cRoBxgGi/Merchant-Spending-Lending-Support-Escalation-Macros",1,,,,,
+,https://app.getguru.com/card/i8er49GT/Domains-Cloudflare-Proxy-Security-Servers,1,,,,,
+,https://app.getguru.com/card/i8kjeRLT/Shopify-Inbox-Chat-is-unavailable-right-now-A-technical-problem-occurred-Please-wait-a-few-moments-and-try-again,1,,,,,
+,"https://app.getguru.com/card/i8X9qgzT/Shopify-Partner-Program-2025-Anticipated-Questions
+https://www.shopify.com/co/contacto
+https://www.shopify.com/co/afiliados",1,,,,,
+,https://app.getguru.com/card/i98869jT/Shopify-Shipping-Shipping-Labels-Troubleshooting-A-system-error-has-occurred-and-is-being-investigated,1,,,,,
+,https://app.getguru.com/card/i98MeL4T/Shopify-Payments-Payout-Process-Troubleshooting-Payout-Delays,1,,,,,
+,"https://app.getguru.com/card/i98MeL4T/Shopify-Payments-Payout-Process-Troubleshooting-Payout-Delays
+https://app.getguru.com/card/T94Rgbgc/Shopify-Balance-Payouts-information-Key-information",1,,,,,
+,"https://app.getguru.com/card/i9eyx4LT/Domains-Registry-Holds-The-sneakiest-of-domain-issues
+
+quora.com/What-does-the-domain-status-""inactive""-mean-and-how-can-we-inquire-the-domain-with-the-status-or-it's-a-secured-domain",1,,,,,
+,https://app.getguru.com/card/i9eyx4LT/Domains-Registry-Holds-The-sneakiest-of-domain-issues#.BE%20Domains,1,,,,,
+,https://app.getguru.com/card/i9GR8gXT/OpenSRS-Draft-Domain-Status,4,,,,,
+,"https://app.getguru.com/card/i9GR8gXT/OpenSRS-Draft-Domain-Status
+
+https://app.getguru.com/card/cMnkqELi/SSA-Billing-Playbook-Deleting-Domain-Draft-on-OpenSRS",1,,,,,
+,"https://app.getguru.com/card/i9GR8gXT/OpenSRS-Draft-Domain-Status
+
+https://app.getguru.com/card/cMnkqELi/SSA-Billing-Playbook-Deleting-Domain-Draft-on-OpenSRS?q=draft+status",1,,,,,
+,https://app.getguru.com/card/i9qRqXbT/Email-Shop-added-to-PSBLs-Realtime-Blackhole-List-RBL,1,,,,,
+,https://app.getguru.com/card/iAebboBT/Products-Columns-like-Type-and-Vendor-are-missing-in-the-Admins-Product-page-,1,,,,,
+,"https://app.getguru.com/card/iAeMd94T/Missing-buttons-text-borders-and-how-to-show-them-again-Theme-Troubleshooting
+
+Mostly, theme troubleshooting",1,,,,,
+,https://app.getguru.com/card/iaKodpLT/Domains-Generating-a-new-domain-transfer-authentication-code,1,,,,,
+,"https://app.getguru.com/card/iaKodpLT/Domains-Generating-a-new-domain-transfer-authentication-code
+
+The resource should provide a note for SSAs that do not have the opensrs permissions to perform the task ",1,,,,,
+,"https://app.getguru.com/card/iaKodpLT/Domains-Generating-a-new-domain-transfer-authentication-code
+https://app.getguru.com/card/RcA6yKoc/Transferring-domains-Transferring-Away-From-Shopify",1,,,,,
+,https://app.getguru.com/card/iAq7EKyT/Shop-Campaigns-Managing-offers-Key-information,1,,,,,
+,"https://app.getguru.com/card/iAq7EKyT/Shop-Campaigns-Managing-offers-Key-information)
+
+https://app.getguru.com/card/Tj8ngjpc/Shop-Campaigns-Overview",1,,,,,
+,https://app.getguru.com/card/iAxrBbdT/Staff-permissions-List-of-Assignable-Staff-Permissions-Key-Information,1,,,,,
+,"https://app.getguru.com/card/iAxRoXyT/Shopify-Payments-Unable-to-Set-up-Shopify-Payments-because-it-is-stuck-in-a-blank-page
+https://app.getguru.com/card/TLMpK4zc/Payment-Settings-Accessing-the-payment-page-leads-to-404-Theres-no-page-at-this-address",1,,,,,
+,https://app.getguru.com/card/ibARAoyT/Additional-Payment-Methods,2,,,,,
+,https://app.getguru.com/card/iBB8ppnT/Theme-Support-Escalating-Custom-Solutions,3,,,,,
+,https://app.getguru.com/card/iBbBKdrT/Shopify-Partners-Resend-declined-rejected-Collaborator-Requests,1,,,,,
+,https://app.getguru.com/card/iBBMnp6T/Shop-app-Marketing-tools-Postpurchase-offers,1,,,,,
+,https://app.getguru.com/card/iBBzpLbT/Pickup-in-Store-Troubleshooting-There-are-no-pickup-locations-available,1,,,,,
+,https://app.getguru.com/card/iBGoRb6T/Committed-Inventory-Key-information,1,,,,,
+,https://app.getguru.com/card/ibjGA7rT/Merchant-Verification-Support-Identifying-Shopify-Payments-Verification-and-Remediation-issues,1,,,,,
+,https://app.getguru.com/card/ibMnxnyT/Domains-OpenSRS-Domain-does-not-resolve-any-IPs ,1,,,,,
+,https://app.getguru.com/card/ibp497gT/Orders-Incorrect-ProductsVariants-are-appearing-in-the-order-?query=wrong+product+ion+order+admin&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4&collection=20589dfc-2b11-43d2-8640-bc935af8112e&sourceType=Guru,1,,,,,
+,https://app.getguru.com/card/ibrGbynT/Multicurrency-Payouts,1,,,,,
+,https://app.getguru.com/card/iBxBe7rT/Shopify-Magic-Automatically-Generate-Product-Descriptions-Key-information,1,,,,,
+,https://app.getguru.com/card/ibXeM7bT/Domains-Domain-SSL-Issues-With-Correct-DNS-ERR_CERT_COMMON_NAME_INVALID,1,,,,,
+,https://app.getguru.com/card/id6GbMoT/Products-Product-orvariant-unexpectedly-changed-updated-or-created,1,,,,,
+,https://app.getguru.com/card/id94ogBT/Inventory-Products-show-as-sold-out-on-storefront,1,,,,,
+,"https://app.getguru.com/card/id94ogBT/Inventory-Products-show-as-sold-out-on-storefront
+https://app.getguru.com/card/i94d6GbT/Product-variants-Unable-to-edit-variant-inventory-in-the-product-admin-page-It-shows-0-and-shows-1-in-the-bulk-editor-and-variant-page",1,,,,,
+,https://app.getguru.com/card/id94ogBT/Inventory-Products-show-as-sold-out-on-storefront?q=sold+out+despite+inventory,1,,,,,
+,https://app.getguru.com/card/id9ea4MT/Domains-TransfersRemovals-Troubleshooting-Requests-to-TransferRemove-Domains-on-Locked-or-Fraudulent-Accounts,7,,,,,
+,https://app.getguru.com/card/idy5neBT/Shopify-Payments-Mexico-Key-information,1,,,,,
+,https://app.getguru.com/card/idyA4q4T/Shopify-Academy-Requests-Refund-Requests,1,,,,,
+,https://app.getguru.com/card/iE4aodrT/Web-Performance-dashboard-and-reports-Key-information,1,,,,,
+,https://app.getguru.com/card/ie8kdKpT/Sales-Channels-Online-Store-Troubleshooting-Not-installed-or-Failed-to-load-the-page,1,,,,,
+,https://app.getguru.com/card/ieBxAXdT/Storefront-Search-Products-that-appear-in-search-results-have-no-relevance-to-what-was-searched,1,,,,,
+,https://app.getguru.com/card/iejL999T/Discounts-Two-Buy-X-Get-Y-automatic-discounts-cannot-combine,1,,,,,
+,https://app.getguru.com/card/iejxdj9T/Shopify-Credit-Overview-Page,1,,,,,
+,https://app.getguru.com/card/iex67ejT/Shopify-Partners-App-Presubmission-Dashboard-Key-information?query=automated+checks+app+submission&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/iexXa5XT/Metafields-Invalid-metafield-values-for-metafield,1,,,,,
+,https://app.getguru.com/card/ig9ap5oT/Orders-Product-price-set-does-not-match-line-item-price-in-order,3,,,,,
+,https://app.getguru.com/card/igjdX9jT/Customers-Customer-Account-Domains-Key-information,1,,,,,
+,https://app.getguru.com/card/igLABzjT/Facebook-Instagram-Pixel-Unable-to-change-or-disconnect-pixel-,1,,,,,
+,https://app.getguru.com/card/iGR5oypT/Zendesk-Updates-on-an-Already-Escalated-Ticket,1,,,,,
+,https://app.getguru.com/card/ij86R8BT/Orders-Balance-customer-owes-you-does-not-update-after-Order-Refund-following-Order-Edit,1,,,,,
+,https://app.getguru.com/card/ij8L6rRT/Third-Party-Gateway-There-was-an-issue-processing-your-payment-Try-again-or-use-a-different-payment-method,1,,,,,
+,"https://app.getguru.com/card/ijXdgEBT/Analytics-Reports-Troubleshooting-Duplicate-Return-Rows
+
+Provided workaround with the SA instead which merchant agreed to check.",1,,,,,
+,https://app.getguru.com/card/iK9ryXxT/Recovering-Deleted-Store-Data-Can-Shopify-Recover-Restore-or-Revert-Data-https://app.getguru.com/card/9ce6qxEc/URL-Redirects,1,,,,,
+,https://app.getguru.com/card/iKbALE4T/Collaborator-requests-are-showing-as-Pending-for-Partners-after-being-approved,2,,,,,
+,https://app.getguru.com/card/ikMydyET/Shopify-Balance-Troubleshooting-Balance-Cards,2,,,,,
+,https://app.getguru.com/card/ikpk8AET/CSV-Import-Job-already-in-progress,3,,,,,
+,"https://app.getguru.com/card/ikpk8AET/CSV-Import-Job-already-in-progress
+
+There is no next step if there is a finished_at timestamp present in the SQL.",1,,,,,
+,https://app.getguru.com/card/ikRgXrpT/Merchant-Verification-Support-Remediation-Troubleshooting,1,,,,,
+,https://app.getguru.com/card/iKxga9zT/Markets-Customers-redirected-to-the-secondary-language-subfolder-instead-of-the-default-language-when-visiting-the-storefront-from-the-primary-market-,1,,,,,
+,"https://app.getguru.com/card/iLz44aAT/Shopify-Payments-Merchant-is-unable-to-add-anything-on-the-iBAN-field-when-trying-to-update-the-bank-connected-to-their-payouts
+
+https://app.getguru.com/card/yiyaRapi/Important-Steps-To-Take-Before-Escalating-To-TMS-Intro",1,,,,,
+,https://app.getguru.com/card/iMLEX8xT/Third-Party-Channel-Pinterest,1,,,,,
+,"https://app.getguru.com/card/iMLEX8xT/Third-Party-Channel-Pinterest
+
+https://community.shopify.com/c/technical-q-a/pinterest-tag-health-suggestions-such-as-addtocart-event-code/m-p/1181191",1,,,,,
+,https://app.getguru.com/card/iMLL4r8T/Rolling-Back-Theme-Code-Theme-Troubleshooting,1,,,,,
+,https://app.getguru.com/card/iMMrGGzT/Facebook-Supporting-or-Posting-in-Facebook-Workplace,1,,,,,
+,https://app.getguru.com/card/iMneG48T/App-Sunsetting,1,,,,,
+,https://app.getguru.com/card/inArMeMT/Privacy-Compliance-Cookie-consent-banner-GDPR-not-appearing-on-desktop-for-eligible-IP-address-regions,1,,,,,
+,"https://app.getguru.com/card/indodABT/File-Limits-Analysis
+https://app.getguru.com/card/T8bGxMMc/Content-Files-Troubleshooting-File-Storage-Limit
+https://app.getguru.com/card/TKKMboac/Files-Shop-Limit-Overrides-Files-failed",1,,,,,
+,"https://app.getguru.com/card/ink5oqBT/Domain-Storefront-website-is-not-accessible-or-getting-blocked-due-to-local-web-browsing-security
+
+https://shopify.zendesk.com/agent/tickets/43788751
+
+https://shopify-support.slack.com/archives/C02F5AHT78U/p1739906372785629
+
+https://app.getguru.com/card/ink5oqBT/Domain-Storefront-website-is-not-accessible-or-getting-blocked-due-to-local-web-browsing-security",1,,,,,
+,https://app.getguru.com/card/inpxx8oT/Merchantstaffcustomer-not-receiving-Shopify-emails-or-notifications,3,,,,,
+,"https://app.getguru.com/card/ioBn9deT/Translate-Adapt-Translations-configured-by-the-merchant-are-missing?query=translate+and+adapt+no+translation&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4
+
+https://app.getguru.com/card/i58bMKKT/Shopify-Translate-Adapt-Known-Issues-Limitations",1,,,,,
+,https://app.getguru.com/card/ioeqazeT/Shopify-Payments-United-States-PayPal-Wallet-Key-information,2,,,,,
+,https://app.getguru.com/card/ioKyrBnT/Shopify-Shipping-Evri-UK-Carrier-Key-information,1,,,,,
+,https://app.getguru.com/card/ioM5kRLT/Domains-DMARC-Sender-Email-Troubleshooting-Customer-emails-show-from-mshopifyemailcom-despite-Authenticated-Sender-domain,1,,,,,
+,https://app.getguru.com/card/ip6M4eLT/Shopify-Shipping-Update-Return-Address-or-Contact-Information-with-UPS,1,,,,,
+,"https://app.getguru.com/card/ipE98yRT/Inventory-MF-Product-is-sold-out-but-has-inventory-available-at-location-that-fulfills-online-orders
+
+https://app.getguru.com/card/yiyjReei/Product-appearing-out-of-stock-or-sold-out-on-storefront-despite-positive-inventory-",1,,,,,
+,https://app.getguru.com/card/ipzr4EeT/Theme-Preview-Wrong-theme-showing-in-previews,1,,,,,
+,"https://app.getguru.com/card/iq8GEzKT/Language-translation-CSV-Troubleshooting
+
+https://community.shopify.com/c/shopify-apps/why-can-t-i-import-default-language-translation-in-my-online/m-p/2385019",1,,,,,
+,https://app.getguru.com/card/iqKApnjT/OrdersDraft-Orders-Orders-deleted-from-admin,1,,,,,
+,"https://app.getguru.com/card/iqKXyzjT/Shopify-Payments-PSD2-3D-Secure
+
+https://app.getguru.com/card/Td84K6kc/Billing-Domains-Subscription-stuck-in-payment_pending_authentication-status
+
+https://app.getguru.com/card/i9GR8gXT/OpenSRS-Draft-Domain-Status",1,,,,,
+,https://app.getguru.com/card/iqpqkkjT/Notifications-Shopify-Email-Notification-platform-shows-email-has-been-discarded,1,,,,,
+,https://app.getguru.com/card/iqxkd54T/Local-Payment-Methods-MobilePay-Key-information,1,,,,,
+,https://app.getguru.com/card/iqzerEKT/CustomerAccounts-reset-password-option-missing,1,,,,,
+,https://app.getguru.com/card/ir5apG4T/Subscription-App-Orders-not-creating-automatically-upon-scheduled-date-or-being-skipped,1,,,,,
+,"https://app.getguru.com/card/ir5j5eyT/Shopify-for-enterprise-Info-Resources
+
+https://shopify.zendesk.com/agent/tickets/45173818
+
+",1,,,,,
+,https://app.getguru.com/card/iRA48kBT/Billing-Troubleshooting-INR-Billing,2,,,,,
+,https://app.getguru.com/card/iRA48kBT/Billing-Troubleshooting-INR-Billing?query=billing+inr&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/irB85ojT/Buy-With-Prime-Known-Issues-Troubleshooting,1,,,,,
+,https://app.getguru.com/card/irBaqroT/SSA-Shopify-Payments-Playbook-Enabling-Stripe,3,,,,,
+,"https://app.getguru.com/card/iRdpbkMT/Users-Staff-Collaborators-showing-as-suspended-and-dont-reactivate
+
+https://app.getguru.com/card/cEzKanei/Usersstaff-Something-went-wrong-Your-organization-has-reached-the-maximum-number-of-users-allowed-error-when-trying-to-add-a-new-user",1,,,,,
+,https://app.getguru.com/card/irj9ABLT/Data-Processing-Addendum-DPA-Updates-August-2024,1,,,,,
+,"https://app.getguru.com/card/irjkXeKT/Finnish-VAT-change-from-24-to-255-
+
+https://app.getguru.com/card/Tgj48byc/Money-Specialist-Tax-Finland-Tax-Information-Updates-Key-Information-
+
+https://help.shopify.com/en/manual/taxes/eu/eu-tax-reference#tax-reference-for-eu-member-countries-and-the-united-kingdom
+
+https://app.getguru.com/card/cjjEReXi/Sales-Tax-European-Union",1,,,,,
+,https://app.getguru.com/card/ixA588bT/Conversion-Summary-Activity-Source,1,,,,,
+,https://app.getguru.com/card/ixBbozrT/Shopify-Bundles-Bundle-is-separated-into-2-component-parts-in-the-Order-page,1,,,,,
+,https://app.getguru.com/card/ixe9jxeT/Local-Troubleshooting-When-You-Cant-Replicate,2,,,,,
+,"https://app.getguru.com/card/ixe9jxeT/Local-Troubleshooting-When-You-Cant-Replicate
+
+https://app.getguru.com/card/LTa4956T/PayPal-Troubleshooting
+
+https://app.getguru.com/card/ijAqGjjT/Paypal-Automatic-Payments-are-Approved-by-PayPal-but-Show-as-Denied-in-the-Admin?q=%5BPaypal%5D+Automatic+Payments+are+%22Approved%22+by+PayPal+but+Show+as+%22Denied%22+in+the+Admin",1,,,,,
+,https://app.getguru.com/card/iXn8b5oT/Shopify-Shipping-Shipping-labels-Return-labels-Known-limitations-Key-information,1,,,,,
+,"https://app.getguru.com/card/iy4d9n9T/Shop-Pay-Installments-Premium-Package
+https://app.getguru.com/card/cg6rnLqi/Shop-Pay-Installments-Pricing",1,,,,,
+,https://app.getguru.com/card/iyAbMx9T/C1-Abandoned-Checkouts-not-being-recorded,1,,,,,
+,https://app.getguru.com/card/iz4ojzgT/Money-Specialist-Shopify-Payments-Processing-Refunds-for-Meta-Orders-through-the-Stripe-Dashboard-Process,1,,,,,
+,https://app.getguru.com/card/izA6KnbT/Domains-Domain-is-pointed-to-Shopify-but-did-not-return-Shopify-headers,1,,,,,
+,"https://app.getguru.com/card/izA6KnbT/Domains-Domain-is-pointed-to-Shopify-but-did-not-return-Shopify-headers
+https://app.getguru.com/card/crKq5kxi/Domains-Pointing-a-Domain-to-Shopify",1,,,,,
+,https://app.getguru.com/card/izR5kk4T/Partner-Dashboard-PartnerInitiated-App-Refunds,2,,,,,
+,https://app.getguru.com/card/izR5kk4T/Partner-Dashboard-PartnerInitiated-App-Refunds?q=partners+issue+refunds+for+app+subscriptions,1,,,,,
+,https://app.getguru.com/card/jcK66xKc/Billing-Changing-Billing-Cycle-frequency-or-length-of-plan,1,,,,,
+,https://app.getguru.com/card/jcKp7dkc/Canonical-URLS,1,,,,,
+,https://app.getguru.com/card/jiK5Lxxi/Shopify-Payments-Hong-Kong-SAR-SP-HK,1,,,,,
+,"https://app.getguru.com/card/jiK6Apji/Domain-Transfer-Process-Transferring-Shopify-Domains-
+
+https://app.getguru.com/card/Tg99gXBc/Domain-Transfer-Troubleshooting
+
+https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains/transferring-domains",1,,,,,
+,https://app.getguru.com/card/jTK6p6MT/Shopify-Payments-Troubleshooting-Merchant-Account-ID-Request,1,,,,,
+,"https://app.getguru.com/card/jTKL9LoT/Shopify-Shipping-Voiding-a-shipping-label-Key-information
+
+https://www.usps.com/business/label-broker.htm",1,,,,,
+,https://app.getguru.com/card/kcRjEb7c/Theme-Support-Identifying-the-Theme,1,,,,,
+,https://app.getguru.com/card/kcRjj69c/Billing-Subscription-Refund-Policy-Cancellations-and-Downgrades-Key-information,4,,,,,
+,"https://app.getguru.com/card/kcRjj69c/Billing-Subscription-Refund-Policy-Cancellations-and-Downgrades-Key-information
+
+https://app.getguru.com/card/ckeXKGGi/Downgrades-Linked-to-Billing-Cycle
+",1,,,,,
+,https://app.getguru.com/card/kcRjj69c/Billing-Subscription-Refund-Policy-Cancellations-and-Downgrades-Key-information?query=refund&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/kcRjj69c/Billing-Subscription-Refund-Policy-Cancellations-and-Downgrades-Key-information?query=refunds&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/KcXjyXRc/Custom-Data-Metafields-Key-information,2,,,,,
+,https://app.getguru.com/card/kiRA6XBi/Shopify-Partners-Development-plan-stores-Key-information,2,,,,,
+,https://app.getguru.com/card/kiRA6XBi/Shopify-Partners-Development-plan-stores-Key-information?query=develpment+test+store&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/kiRjBKgi/Hardware-Store-Order-Returns-Key-Information,1,,,,,
+,https://app.getguru.com/card/kiRrEnBi/Money-Specialist-Billing-Plan-Downgrade-on-a-Shop-With-a-Pending-Subscription-Bill-Process,2,,,,,
+,https://app.getguru.com/card/KiXjKbMi/Theme-Support-Supported-Themes-including-not-in-Theme-Store,1,,,,,
+,https://app.getguru.com/card/kTGKG7qT/Shopify-Domains-Troubleshooting-Action-Required-Sending-a-Verification-Email-ICANN,1,,,,,
+,https://app.getguru.com/card/kTRga5pT/Themes-Responsive-Images-and-Image-Sizes,1,,,,,
+,https://app.getguru.com/card/KTXdd6LT/Order-Cancellation-Fulfilled-and-partially-fulfilled-orders-Key-Information,1,,,,,
+,https://app.getguru.com/card/Lca4Geec/Google-Search-Results-and-the-Sitemap,1,,,,,
+,https://app.getguru.com/card/LcaLrgRc/Shopifys-API-Scope-of-Frontline-Support-Knowing-When-To-Escalate,1,,,,,
+,"https://app.getguru.com/card/LcaLrgRc/Shopifys-API-Scope-of-Frontline-Support-Knowing-When-To-Escalate
+
+No specific resource found.",1,,,,,
+,https://app.getguru.com/card/Lcgzb6Kc/Transferring-Shopify-domains-Transferring-Between-Stores,2,,,,,
+,"https://app.getguru.com/card/Lia6nAji/Downgrading-from-a-Long-Term-Subscription-AnnualBiennialTriennial-Key-Information
+
+https://app.getguru.com/card/ckeXKGGi/Downgrades-Linked-to-Billing-Cycle
+",1,,,,,
+,https://app.getguru.com/card/Lia6nAji/Downgrading-from-a-Long-Term-Subscription-AnnualBiennialTriennial-Key-Information the SA Was not able to check this GC and this should be escalated without coordinating to SSA. ,1,,,,,
+,https://app.getguru.com/card/LTgzzByT/Billing-Unknown-Charge-Payment-Method-Removal,2,,,,,
+,https://app.getguru.com/card/pc58KA9c/Shopify-Shipping-Checkout-Troubleshooting-Your-order-cannot-be-shipped-to-the-selected-address,2,,,,,
+,"https://app.getguru.com/card/pc5G9Akc/Shopify-Payments-Shopify-Payments-not-Appearing-as-a-Payment-Option
+",1,,,,,
+,https://app.getguru.com/card/pc5GLnkc/Merchant-in-SP-region-wants-to-use-Stripe-instead-of-Shopify-Payments-,2,,,,,
+,"https://app.getguru.com/card/pc5n7XRc/DNS-Propagation-For-Support-DNS-Propagation
+
+https://app.getguru.com/card/aczEeazc/Domains-Shopify-Managed-Domain-showing-no-DNS-Records-outside-of-the-DNS-Settings-setup-in-the-admin",1,,,,,
+,"https://app.getguru.com/card/pcMe5akc/App-Ownership-Transfers
+
+https://community.shopify.com/c/shopify-apps/can-i-transfer-my-app-to-other-partner-account/td-p/1001739",1,,,,,
+,"https://app.getguru.com/card/pcMKpbrc/Shopify-Payments-Payments-Blacklist-Tag-Key-information
+
+https://app.getguru.com/card/pcMKpbrc/Shopify-Payments-Payments-Blacklist-Tag-Key-information",1,,,,,
+,https://app.getguru.com/card/pcMKzk7c/Admin-Search-Issues-Import-search-documents-to-fix-missing-orders-products-collection-etc,1,,,,,
+,https://app.getguru.com/card/pcMporLc/Themes-What-is-a-Favicon,1,,,,,
+,"https://app.getguru.com/card/pcq64K9c/Third-Party-Gateway-CyberSource-Key-information
+
+https://app.getguru.com/card/TKp494Ec/Third-Party-Payment-Gateways-Key-information",1,,,,,
+,"https://app.getguru.com/card/pcqGra9c/Shopifys-sitemap-Key-information
+https://app.getguru.com/card/Lca4Geec/Google-Search-Results-and-the-Sitemap",1,,,,,
+,https://app.getguru.com/card/pcqna6rc/Shopify-Payments-Failed-Payouts,7,,,,,
+,https://app.getguru.com/card/pcqna6rc/Shopify-Payments-Failed-Payouts?query=failed+payout+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/pi5Ey9Ki/Discounts-Buy-X-Get-Y-Key-information,2,,,,,
+,https://app.getguru.com/card/piMa5zzi/Domains-Email-hosting-Troubleshooting-Setup,1,,,,,
+,https://app.getguru.com/card/piML76Ai/Escalating-to-TMS-What-TMS-Handles-Domain-Issues,1,,,,,
+,https://app.getguru.com/card/piMLR8Ei/Domain-Connect-Subdomain-Support-And-Special-Setups,1,,,,,
+,https://app.getguru.com/card/piqo64Ei/Editing-the-Checkout-Unsupported-Theme-Customization,1,,,,,
+,https://app.getguru.com/card/pTq6XznT/Transferring-Credit-Between-Shops-Key-information,1,,,,,
+,"https://app.getguru.com/card/pTqn79nT/Shopify-Payments-Dealing-with-a-Chargeback
+https://help.shopify.com/en/manual/payments/chargebacks#reasons-for-a-chargeback-or-inquiry",1,,,,,
+,https://app.getguru.com/card/qc7aGkAc/Confirming-Bank-Account-Associated-with-Shopify-Payments-Account-Key-information,1,,,,,
+,https://app.getguru.com/card/qc9nnBrc/Billing-App-Refund-Requests-from-Merchants?query=app+refunds&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/qcE6dGjc/Draft-orders-Limitations,1,,,,,
+,https://app.getguru.com/card/qcE6pKec/Shopify-Payments-Update-Tax-Information-or-Business-Information,1,,,,,
+,https://app.getguru.com/card/qi7zn5Ei/Ecommerce-Platform-Online-Checkout-Troubleshooting-Checkout-vs-Abandoned-Checkout-Discrepancy,1,,,,,
+,https://app.getguru.com/card/qi9KA4pi/Changing-the-MerchantPartner-Account-Owner-Email-Request-for-Email-Update,1,,,,,
+,https://app.getguru.com/card/qi9nj6Ki/Transferring-out-domains-Transferring-couk-eu-be-de-za-re-nl-nz-se-ph-ec-es-Domains,1,,,,,
+,https://app.getguru.com/card/qiEjjpAi/Merchant-Requests-to-Remove-Payment-Method-from-Store,1,,,,,
+,https://app.getguru.com/card/qT98e6nT/Shopify-Flow-App-Intro,1,,,,,
+,https://app.getguru.com/card/qT9nLA5T/Supporting-merchants-with-third-party-apps-Key-information,2,,,,,
+,"https://app.getguru.com/card/qT9nn48T/Billing-Subscription-Billing-Address-Changes
+
+",1,,,,,
+,https://app.getguru.com/card/qTE6dL8T/Privacy-State-Marking-Shops-as-Dead-Key-information,1,,,,,
+,https://app.getguru.com/card/qTE6nrKT/Domain-Removals-Verifying-ownership-to-remove-a-domain,3,,,,,
+,https://app.getguru.com/card/RcA6yKoc/Transferring-domains-Transferring-Away-From-Shopify,1,,,,,
+,"https://app.getguru.com/card/RcA6yKoc/Transferring-domains-Transferring-Away-From-Shopify?query=transfer+away&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4
+https://app.getguru.com/card/Lcgzb6Kc/Transferring-Shopify-domains-Transferring-Between-Stores?query=domain+pending+invoice&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4#N7lGO79tjucd
+",1,,,,,
+,https://app.getguru.com/card/RcApbqkc/Theme-Support-Unsupported-Customizations,1,,,,,
+,https://app.getguru.com/card/RcApbqkc/Theme-Support-Unsupported-Customizations?query=announcement+bar&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/RcAx4xgc/Capital-Update-Merchant-Bank-Account-Information-for-MCAs-and-Loans-Key-information?query=capital+bank+update&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/rcbKG6Kc/Shopify-Shipping-Shipping-Rates-Troubleshooting-Wrong-weight-based-rate-applied?query=shipping+rates&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/RiAeMayi/Shopify-Flow-App-Known-Issues-and-Limitations,1,,,,,
+,"https://app.getguru.com/card/RiAeMayi/Shopify-Flow-App-Known-Issues-and-Limitations
+https://app.getguru.com/card/i48o4XoT/Shopify-Flow-App-Support-Advisors
+https://app.getguru.com/card/Lca4j9gc/Webhooks-for-Support-Advisors-Troubleshooting-Common-Errors
+https://app.getguru.com/card/i5A9gGXT/Developer-Support-Troubleshooting-APIs-Key-Information",1,,,,,
+,https://app.getguru.com/card/RiARg8ai/Shopify-Payments-Merchants-customer-claiming-to-be-charged-Authorizations-vs-Charges,1,,,,,
+,https://app.getguru.com/card/RTAAkd6T/Shopify-Partners-Collaborator-Account-Troubleshooting,1,,,,,
+,https://app.getguru.com/card/T48bRqKc/Shopify-Free-Trial-3-Day-Trial-Length-1month-for-3-month-Pricing-Key-information,1,,,,,
+,https://app.getguru.com/card/T4jGpX5c/Facebook-Pixel-There-was-a-problem-saving-your-data-sharing-settings,1,,,,,
+,https://app.getguru.com/card/T4zbKdXc/General-Troubleshooting-Reindex,1,,,,,
+,"https://app.getguru.com/card/T4zbKdXc/General-Troubleshooting-Reindex
+
+https://app.getguru.com/card/i58bMKKT/Shopify-Translate-Adapt-Known-Issues-Limitations
+
+https://app.getguru.com/card/ckE6jM7i/Shopify-Analytics-and-Reports-Discrepancies-and-other-common-questions",1,,,,,
+,https://app.getguru.com/card/T4zRgk6c/Shopify-Capital-Settings-not-visiblebrandnew-Merchant,1,,,,,
+,https://app.getguru.com/card/T64ex5pc/Klarna-Key-information,1,,,,,
+,"https://app.getguru.com/card/T6566LXc/Checkout-Shipping-not-available-Your-order-cannot-be-shipped-to-the-selected-address-Review-your-address-to-ensure-its-correct-and-try-again-or-select-a-different-address 
+",1,,,,,
+,https://app.getguru.com/card/T687xkXc/Staff-Permissions-Manage-Plan-Key-information,1,,,,,
+,https://app.getguru.com/card/T6BL85ac/Theme-Editor-Failed-to-load-the-page-,2,,,,,
+,https://app.getguru.com/card/T7EgdaLc/Shopify-Payments-Banking-Verification-Account-Must-Match-Error,1,,,,,
+,https://app.getguru.com/card/T8Ge8KAc/Shopify-Collective-Certain-products-published-to-Collective-Supplier-Sales-Channel-cannot-be-added-to-price-lists,1,,,,,
+,"https://app.getguru.com/card/T8XkE8qc/Order-status-page-and-Thank-you-page-Checkout-One-Migration-Key-Information
+
+https://app.getguru.com/card/ik858BpT/Pixels-and-Customer-Events-Key-information",1,,,,,
+,https://app.getguru.com/card/T945eR8c/Shopify-Inbox-Error-Something-went-wrong-Conversations-cannot-be-displayed-at-the-moment-Please-wait-a-few-minutes-and-try-again-when-opening-messages-on-Shopify-Inbox,1,,,,,
+,https://app.getguru.com/card/T94Rgbgc/Shopify-Balance-Payouts-information-Key-information,3,,,,,
+,https://app.getguru.com/card/T98xBgqc/Orders-Order-displays-balance-owed-to-customer-despite-refund-and-correct-total-having-been-paid,1,,,,,
+,"https://app.getguru.com/card/T98xBgqc/Orders-Order-displays-balance-owed-to-customer-despite-refund-and-correct-total-having-been-paid
+",1,,,,,
+,https://app.getguru.com/card/T98ynRqc/Escalating-to-Merchant-Verification,1,,,,,
+,https://app.getguru.com/card/T9p4xjMc/Troubleshooting-Workflow,1,,,,,
+,"https://app.getguru.com/card/T9xdGMgc/Managed-Markets-Payouts-Troubleshooting
+
+https://shopify-support.slack.com/archives/C032E48EZQ8/p1743111979468709
+",1,,,,,
+,"https://app.getguru.com/card/Ta6pEy6c/TMS-API-Apps-Webhooks-Intro
+
+https://app.getguru.com/card/iqqeBeoT/Webhooks-How-to-investigate-a-missing-webhook
+
+https://app.getguru.com/card/ibXRRBjT/TMS-Webhooks-troubleshooting-guide
+
+https://app.getguru.com/card/Lca4j9gc/Webhooks-for-Support-Advisors-Troubleshooting-Common-Errors",1,,,,,
+,https://app.getguru.com/card/Ta8XAqGc/Discount-Combinations-Supported-Combinations,1,,,,,
+,https://app.getguru.com/card/TA98xq7c/Product-CSV-variant-image-When-assigning-variant-images-with-a-CSV-some-of-the-images-are-missed,1,,,,,
+,https://app.getguru.com/card/TA9E4z8c/Products-CSV-upload-removes-some-product-images,1,,,,,
+,https://app.getguru.com/card/TARkkLnc/Store-Migration-App-Easier-Imports-Square-Etsy-Lightspeed-Wix-Clover-WooCommerce-,1,,,,,
+,https://app.getguru.com/card/TaxdgEkc/Creating-and-processing-returns-and-exchanges-Key-Information,1,,,,,
+,https://app.getguru.com/card/Tba9ooEc/Shopify-Subscriptions-app-Overview-Key-information,1,,,,,
+,"https://app.getguru.com/card/Tba9ooEc/Shopify-Subscriptions-app-Overview-Key-information
+
+https://app.getguru.com/card/ia69xKnT/Subscriptions-API-Eligibility-and-Limitations-Key-information
+
+",1,,,,,
+,https://app.getguru.com/card/TBAr8npc/Shopify-Payments-Payout-Hold-Reasons-and-Recommended-Steps-for-Support,5,,,,,
+,"https://app.getguru.com/card/TBAr8npc/Shopify-Payments-Payout-Hold-Reasons-and-Recommended-Steps-for-Support
+
+",1,,,,,
+,"https://app.getguru.com/card/TBAr8npc/Shopify-Payments-Payout-Hold-Reasons-and-Recommended-Steps-for-Support
+
+*Doesn't mention remediation flag or link to MV related remediation issues causing payout holds if there is no support tip present*",1,,,,,
+,https://app.getguru.com/card/TBAr8npc/Shopify-Payments-Payout-Hold-Reasons-and-Recommended-Steps-for-Support?query=payout+issues+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/TBBEejec/Billing-Discretionary-Discount-Policies-Key-Information,1,,,,,
+,https://app.getguru.com/card/TbjyBdLc/Troubleshooting-Sender-Email-Authentication-Stuck-In-Pending-Authentication-Has-Failed,1,,,,,
+,https://app.getguru.com/card/Td84K6kc/Billing-Domains-Subscription-stuck-in-payment_pending_authentication-status,1,,,,,
+,https://app.getguru.com/card/TEegp9zc/P0-REMINDERTwoStep-Authentication-2SA-Escalation-Process,1,,,,,
+,"https://app.getguru.com/card/Tejarnxc/Markets-Local-Payouts-in-Multiple-Currencies-Canada
+
+https://app.getguru.com/card/T5z7z8Bc/Shopify-Payments-MultiCurrency-Payouts-Key-information",1,,,,,
+,https://app.getguru.com/card/TEkaonac/Order-Tracking-Notification-on-Order-Page-Showing-Incorrect-Shipment-Status-or-missing-tracking-URL,1,,,,,
+,https://app.getguru.com/card/TEkqneac/Theme-Support-Notification-Template-Requests,1,,,,,
+,"https://app.getguru.com/card/TG5arx8c/Subscription-Orders-with-subscription-products-selected-are-completed-as-one-time-purchases
+
+https://app.getguru.com/card/iyredopT/Subscriptions-Payment-method-update-is-failing",1,,,,,
+,https://app.getguru.com/card/Tg5zxGyc/Shopify-Email-App-Discrepancy-in-the-Total-Emails-Sent,1,,,,,
+,https://app.getguru.com/card/TgBoKkkc/Marketing-Automations-Flow-displays-Failed-to-query-data-for-subsequent-steps-Something-went-wrong-and-this-step-didnt-run,2,,,,,
+,https://app.getguru.com/card/TGxypyqc/Billing-Pay-with-Shopify-Balance -- doesnt explain when we use Balance for payments but the payments are declined. ,1,,,,,
+,https://app.getguru.com/card/Tje7bdac/Subscriptions-Payment-Methods-Troubleshooting-Payment-attempt-errors?query=%09subscriptions+Credit+card+not+found&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4#7DphpZzyJlkJ,1,,,,,
+,https://app.getguru.com/card/Tje7bdac/Subscriptions-Payment-Methods-Troubleshooting-Payment-attempt-errors?query=You+previously+attempted+to+charge+this+card.+When+the+customer%27s+bank+declined+that+payment%2C+it+directed+Stripe+to+block+future+attempts&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/Tjeoobxc/Digital-Downloads-Download-links-are-missing,1,,,,,
+,"https://app.getguru.com/card/Tjeoobxc/Digital-Downloads-Download-links-are-missing
+
+https://app.getguru.com/card/Tjeoobxc/Digital-Downloads-Download-links-are-missing?query=missing+digital+download+links&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4
+
+https://app.getguru.com/card/piqny54i/Digital-Downloads-app-Delivery-and-Downloading-The-Attachment-Troubleshooting",1,,,,,
+,https://app.getguru.com/card/TjRn6pxc/Legacy-Shopify-Markets-Price-Customisations-Fixed-Compare-at-Adjustments-Key-information,2,,,,,
+,https://app.getguru.com/card/Tk97xbBc/Google-YouTube-Channel-Delete-a-Google-Merchant-Center-Account,1,,,,,
+,https://app.getguru.com/card/TK9k9GGc/Admin-500-Error-Theres-a-problem-loading-this-page,6,,,,,
+,"https://app.getguru.com/card/TkEEMLgc/Shopify-Payments-Klarna
+
+https://app.getguru.com/card/iAgKy6BT/Shopify-Payments-Klarna-Integration-Troubleshooting-Common-Issues
+
+https://shopify-support.slack.com/archives/C02F5AHT78U/p1747817479971939
+
+https://shopify-support.slack.com/archives/C02JL9T7684/p1747383853436799",1,,,,,
+,"https://app.getguru.com/card/TkEEMLgc/Shopify-Payments-Klarna
+https://app.getguru.com/card/iAgKy6BT/Shopify-Payments-Klarna-Integration-Troubleshooting-Common-Issues",1,,,,,
+,https://app.getguru.com/card/TKgk5e6c/Product-Options-Order-of-option-values-reverts-after-saving,1,,,,,
+,"https://app.getguru.com/card/TKnRGdMc/Ownership-Disputes-Merchants-Partners
+
+https://app.getguru.com/card/qi9KA4pi/Changing-the-MerchantPartner-Account-Owner-Email-Request-for-Email-Update
+
+https://app.getguru.com/card/Txqje9qc/MerchantPartner-Ownership-Changes",1,,,,,
+,https://app.getguru.com/card/TKpARqnc/Google-Analytics-Scope-of-Support-Troubleshooting-Universal-Analytics?query=universal+analytics+remove+tag&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/TKxEK4rc/Draft-Order-Your-payment-couldnt-be-processed-because-your-order-total-has-changed-Check-your-order-total-and-try-again,1,,,,,
+,"https://app.getguru.com/card/TkzrG98c/Shopify-Shipping-Shipping-Profiles-Types-of-Shipping-Rates-Manual-Rates-Calculated-Rates-Key-Information?query=shipping+rate&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4
+
+https://help.shopify.com/en/manual/fulfillment/setup/shipping-profiles/combined-shipping-rates#combine-weight-price-rates",1,,,,,
+,"https://app.getguru.com/card/TLepanEc/New-Markets-Release-Key-information
+https://app.getguru.com/card/TyrXM4rc/Markets-Overview",1,,,,,
+,https://app.getguru.com/card/TLM9nnbc/Products-Compareat-price-Troubleshooting-Compareat-price-doesnt-display-if-it-differs-across-variants,1,,,,,
+,"https://app.getguru.com/card/TLM9nnbc/Products-Compareat-price-Troubleshooting-Compareat-price-doesnt-display-if-it-differs-across-variants
+
+https://app.getguru.com/card/TG95jA5c/Scenarios-Where-CompareAt-Prices-Will-Or-Will-Not-Display",1,,,,,
+,https://app.getguru.com/card/TLRXg95c/What-are-Payments-Extensions,1,,,,,
+,https://app.getguru.com/card/TMEMAyoc/Domains-Please-try-againThe-contact-information-provided-are-not-invalid-When-Attempting-To-Purchase,1,,,,,
+,https://app.getguru.com/card/TMEMAyoc/Domains-Please-try-againThe-contact-information-provided-are-not-invalid-When-Attempting-To-Purchase?q=Invalid+format+of+owner+contact+domain,1,,,,,
+,https://app.getguru.com/card/TMgkq76c/Shop-Pay-Installments-Failed-and-Missing-Payouts-Known-Issues-Key-information,1,,,,,
+,"https://app.getguru.com/card/TMgkq76c/Shop-Pay-Installments-Failed-and-Missing-Payouts-Known-Issues-Key-information
+https://app.getguru.com/card/innxL4gT/Shop-Pay-Installments-Merchant-Experience-Key-Information",1,,,,,
+,https://app.getguru.com/card/TMKEzAec/Subscriptions-API-Checkout-Shipping-Rates-for-Subscription-Apps-Key-information,1,,,,,
+,"https://app.getguru.com/card/TMxGbE6c/Online-Store-ERR_SSL_PROTOCOL_ERROR-ERR_CONNECTION_CLOSED-when-trying-to-access-storefront
+https://app.getguru.com/card/ink5oqBT/Domain-Storefront-website-is-not-accessible-or-getting-blocked-due-to-local-web-browsing-security",1,,,,,
+,https://app.getguru.com/card/Tn645BXc/Collection-Collections-on-the-storefront-arent-displaying-active-products,1,,,,,
+,https://app.getguru.com/card/Tn8MKRpc/Change-to-a-new-myshopifycom-domain-myshopifycom-URL-Update,1,,,,,
+,https://app.getguru.com/card/TnAGLbLc/Checkout-One-Merchant-received-payment-and-customer-received-confirmation-but-no-order-or-abandoned-checkout-was-created-in-the-admin-,1,,,,,
+,https://app.getguru.com/card/TnzEBp6c/Customer-accounts-Unable-to-log-in-or-create-account-as-it-redirects-to-404-error-page,1,,,,,
+,https://app.getguru.com/card/TodpGzrc/Reactivating-a-Closed-or-Frozen-Store-Key-information,1,,,,,
+,https://app.getguru.com/card/Tp8kxkdc/Shopify-Payments-Rate-Reviews-Is-My-Case-Eligible,1,,,,,
+,https://app.getguru.com/card/TpALBEXc/PayPal-There-was-an-issue-with-PayPal-error-when-trying-to-checkout-using-PayPal,2,,,,,
+,https://app.getguru.com/card/TpBkaGKc/Billing-INR-Billing-Frozen-Stores,1,,,,,
+,"https://app.getguru.com/card/TpBkaGKc/Billing-INR-Billing-Frozen-Stores
+
+",1,,,,,
+,https://app.getguru.com/card/TpBkaGKc/Billing-INR-Billing-Frozen-Stores?query=inr+frozen&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/TpGaEKac/Login-Troubleshooting,1,,,,,
+,https://app.getguru.com/card/Tq8kn46c/Shopify-Payments-France-SP-FR?query=bank+account+%2B+France&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/TqK5da8c/Billing-Payment-Methods-Key-information,1,,,,,
+,https://app.getguru.com/card/TqM8kzMc/Collaborators-Collaborators-improperly-removed-,1,,,,,
+,https://app.getguru.com/card/TqqzjeLc/Troubleshooting-Error-in-Services-internal-Payouts-are-disabled-Twostep-authentication-enforcement,1,,,,,
+,https://app.getguru.com/card/TR8k5KLc/Locked-Identity-Accounts,1,,,,,
+,https://app.getguru.com/card/TrA67Bdc/Checkout-Orders-Incorrect-shipping-rate-shipping-title-shows-in-the-checkout-and-order,1,,,,,
+,https://app.getguru.com/card/Tro6M9ec/Pending-Refunds-on-Shopify-Payments?query=pending+refud&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/TRpobgxc/Google-YouTube-Channel-Product-Sync-Process,1,,,,,
+,https://app.getguru.com/card/TX6p9a6c/POS-POS-Pro-Authorized-state-instead-of-Paid,1,,,,,
+,https://app.getguru.com/card/TxBRRzBc/Theme-Editor-Changes-made-to-published-theme-arent-reflecting-on-storefront-or-reverted-soon-after-saving,1,,,,,
+,https://app.getguru.com/card/TXnBMyxc/Checkout-There-was-a-problem-with-our-checkout-Refresh-this-page-or-try-again-in-a-few-minutes-error-message-when-accessing-checkout-through-the-theme-editor-or-online-store,1,,,,,
+,https://app.getguru.com/card/Txqje9qc/MerchantPartner-Ownership-Changes,3,,,,,
+,https://app.getguru.com/card/TxXdA9Kc/RBAC-Store-Owner-receives-collaborator-requests-via-email-but-cannot-see-any-under-UsersRequests,1,,,,,
+,https://app.getguru.com/card/Ty8neBoc/OrdersDiscounts-Discount-amount-applied-to-order-is-less-than-actualexpected-amount,1,,,,,
+,https://app.getguru.com/card/Tybxajoc/Checkout-Checkout-not-loading-for-merchant-store,1,,,,,
+,https://app.getguru.com/card/Tyraqooc/Users-Roles-Role-with-this-name-already-exists-error-when-accepting-Collaborator-request-,1,,,,,
+,https://app.getguru.com/card/TyrXM4rc/Markets-Overview,1,,,,,
+,https://app.getguru.com/card/TzKd8y5c/Unit-pricing-Key-information,1,,,,,
+,https://app.getguru.com/card/Tzpx4dEc/Shopify-App-Blocks-and-App-Embeds-Troubleshooting-Issues-with-Display-on-Storefront,1,,,,,
+,https://app.getguru.com/card/Xi4kyxgi/Theme-Support-Escalating-to-Theme-Support,3,,,,,
+,https://app.getguru.com/card/Xi4Mokei/Updating-Bank-Account-Details-for-Shopify-Payments-Key-information,2,,,,,
+,https://app.getguru.com/card/Xi4Mokei/Updating-Bank-Account-Details-for-Shopify-Payments-Key-information?query=change+bank+payouts&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/ycn965rc/Transferring-a-Paid-Theme,1,,,,,
+,https://app.getguru.com/card/ycnRRzec/Breakdown-Of-Plan-Pricing-including-Local-Pricing-Key-information,2,,,,,
+,"https://app.getguru.com/card/ycnRRzec/Breakdown-Of-Plan-Pricing-including-Local-Pricing-Key-information
+
+",1,,,,,
+,https://app.getguru.com/card/ycnRRzec/Breakdown-Of-Plan-Pricing-including-Local-Pricing-Key-information?query=local+pricing+&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.getguru.com/card/ycygp8Ec/Shopify-Shipping-Label-Price-Adjustments,1,,,,,
+,https://app.getguru.com/card/yiyjReei/Product-appearing-out-of-stock-or-sold-out-on-storefront-despite-positive-inventory-,5,,,,,
+,"https://app.getguru.com/card/yiyjReei/Product-appearing-out-of-stock-or-sold-out-on-storefront-despite-positive-inventory-
+
+https://app.getguru.com/card/id94ogBT/Inventory-Products-show-as-sold-out-on-storefront",3,,,,,
+,https://app.getguru.com/card/yiyjReei/Product-appearing-out-of-stock-or-sold-out-on-storefront-despite-positive-inventory- this resource doesnt mention checking markets -- but this is the reason why they are showing sold out. ,1,,,,,
+,https://app.getguru.com/card/yiyjReei/Product-appearing-out-of-stock-or-sold-out-on-storefront-despite-positive-inventory-?query=product+out+of+stock&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,"https://app.getguru.com/card/yTya6bBT/Apple-Pay-for-Support-Advisors-Troubleshooting-Button-Not-Visible-
+
+https://app.getguru.com/card/eTokjorT/Apple-Pay-Verify-Domain-Registration-VisibilityPayment-Not-Completed",1,,,,,
+,https://app.getguru.com/card/yTya6bBT/Apple-Pay-for-Support-Advisors-Troubleshooting-Button-Not-Visible-?query=apple+pay+not+showing&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,"https://app.getguru.com/card/yTyRpRqT/Domain-Refunds
+https://app.getguru.com/card/Td84K6kc/Billing-Domains-Subscription-stuck-in-payment_pending_authentication-status",1,,,,,
+,https://app.getguru.com/card/zTLkB8qT/ThirdParty-Themes,1,,,,,
+,https://app.getguru.com/search?query=why+do+merchant%27s+store+being+frozen+after+the+free+trial%3F&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4,1,,,,,
+,https://app.shopify.com/services/internal/shops/75472470256/invoices/373244544,1,,,,,
+,https://app.slack.com/client/E017D49VC3F/C032T3AAV0T,1,,,,,
+,"https://apps.shopify.com/search?q=qr%20codes
+https://apps.shopify.com/search?q=digital+products
+https://www.shopify.com/ca/partners/directory
+merchant is looking for a custom integration for digital products / QR codes",1,,,,,
+,"https://community.klaviyo.com/marketing-30/cart-rebuild-link-redirecting-to-wrong-product-5008
+https://community.klaviyo.com/marketing-30/incorrect-product-showing-in-abandoned-cart-11504
+https://community.klaviyo.com/marketing-30/event-extra-checkout-url-redirects-to-a-none-page-4411?tid=4411&fid=30",1,,,,,
+,"https://community.shopify.com/c/international-commerce/hiding-products-not-available-in-specific-markets/td-p/1708053
+
+https://community.shopify.com/c/shopify-design/hiding-products-in-the-collection-from-selected-countries/m-p/2679738
+
+Apps
+https://apps.shopify.com/locksmith?search_id=0fd38633-62a6-4c27-96b8-e8934298e4ef&shallow_install_type=search&surface_detail=locksmith&surface_inter_position=1&surface_intra_position=1&surface_type=search
+https://apps.shopify.com/login-to-access-pages?search_id=78863725-5344-43ba-976b-fad1e80cb49a&surface_detail=lock+collection+&surface_inter_position=1&surface_intra_position=8&surface_type=search
+https://apps.shopify.com/wholesale-lock-manager?search_id=78863725-5344-43ba-976b-fad1e80cb49a&surface_detail=lock+collection+&surface_inter_position=1&surface_intra_position=11&surface_type=search
+",1,,,,,
+,"https://community.shopify.com/c/shopify-apps/recharge-subscriptions-not-visible-in-shopify-customer-accounts/td-p/2983400
+",1,,,,,
+,https://community.shopify.com/c/shopify-design/how-can-i-display-all-my-blog-posts-using-the-taste-theme/m-p/2190049,1,,,,,
+,https://community.shopify.com/c/shopify-discussions/newsletter-subscription-confirmation-mail-cancel/m-p/1450717,1,,,,,
+,https://community.shopify.com/c/technical-q-a/how-can-i-modify-the-path-to-my-policy-pages-on-the-dawn-theme/m-p/1837774,1,,,,,
+,https://developers.google.com/search/docs/crawling-indexing/block-indexing,1,,,,,
+,https://docs.google.com/spreadsheets/d/1C78D8rmzzflJwIOS_iMvwRwF-FOD3WuV1wr_CKP_low/edit?gid=0#gid=0,1,,,,,
+,"https://github.com/Shopify/shopify/blob/main/areas/core/shopify/components/domains/lib/open_srs_wrapper/supported_tld_db.rb
+https://app.getguru.com/card/qi7XdE9i/Domains-Supported-Domains-for-Purchase-Transfer-In-And-What-Unavailable-Means",1,,,,,
+,"https://help.adroll.com/hc/en-us/articles/360049670811-Can-I-update-my-product-feed
+
+https://help.adroll.com/hc/en-us/requests/new",1,,,,,
+,https://help.archetypethemes.co/en/articles/2747,1,,,,,
+,https://help.printful.com/hc/en-us/articles/6148146390556-Why-are-my-orders-not-being-fulfilled-by-Printful,1,,,,,
+,https://help.shopify.com/en/manual/customers/import-export-customers#customer-csv-template,1,,,,,
+,https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains/connect-domain-customer-account (there isn't a resource that explains that the customer related order pages would appear blank without proper DNS set-up. I suppose it's common sense but would be nice to have internal documentation for troubleshooting purposes!),1,,,,,
+,https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains (we don't have a resource that goes over this common issue/misunderstanding),1,,,,,
+,https://help.shopify.com/en/manual/finance/shopify-balance/managing-account/transactions#transferring-balance,1,,,,,
+,"https://help.shopify.com/en/manual/fulfillment/managing-orders/canceling-orders#delete-an-order:~:text=unarchive%20multiple%20orders.-,Delete%20an%20order,-Deleted%20orders%20are",1,,,,,
+,https://help.shopify.com/en/manual/fulfillment/managing-orders/refunding-orders#refund-an-entire-order,1,,,,,
+,https://help.shopify.com/en/manual/fulfillment/managing-orders/returns/creating-returns,1,,,,,
+,"https://help.shopify.com/en/manual/fulfillment/setup/shipping-rates/third-party-carrier-calculated-shipping
+",1,,,,,
+,"https://help.shopify.com/en/manual/inbox/chat-settings-and-appearance/settings#profile-picture
+https://app.getguru.com/card/igLejabT/Shopify-Inbox-Troubleshooting-Overview",1,,,,,
+,https://help.shopify.com/en/manual/international/automatic-redirection,1,,,,,
+,https://help.shopify.com/en/manual/international/managing#editing-the-countries-or-regions-within-an-existing-market,1,,,,,
+,"https://help.shopify.com/en/manual/markets-new/catalogs#create-catalog
+
+https://app.getguru.com/card/TLepanEc/New-Markets-Release-Key-information",1,,,,,
+,https://help.shopify.com/en/manual/online-sales-channels/shopify-collective/retailers/community-guidelines,1,,,,,
+,https://help.shopify.com/en/manual/payments/shopify-payments/payouts/payout-periods#considerations-for-shopify-payments-payouts-after-deactivating-your-store,1,,,,,
+,https://help.shopify.com/en/manual/payments/shopify-payments/payouts/view-details?citation=true,1,,,,,
+,https://help.shopify.com/en/manual/products/purchase-options/subscriptions/shopify-subscriptions/setup#display-subscriptions-on-online-store,1,,,,,
+,"https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/analytics-updates
+
+https://app.getguru.com/card/cz7yoKki/Migrating-custom-reports-from-old-Reportify-to-the-new-analytics",1,,,,,
+,https://help.shopify.com/en/manual/sell-in-person/quickbooks/integration#set-up-tax,1,,,,,
+,https://help.shopify.com/en/manual/taxes/shopify-tax/choose-tax-service,1,,,,,
+,https://help.shopify.com/en/search?citation=true&q=why+the+billing+address+cannot+be+removed+from+the+checkout%3F,1,,,,,
+,https://incidents.shopify.io/incidents/10252,1,,,,,
+,https://incidents.shopify.io/incidents/10461/support_information,1,,,,,
+,https://merchant-frustrations.shopifycloud.com/features/21403,1,,,,,
+,https://merchant-frustrations.shopifycloud.com/features/23387,1,,,,,
+,https://merchant-frustrations.shopifycloud.com/features/8371,1,,,,,
+,"https://shopify-support.slack.com/archives/C026ATXN24C/p1745012371421249
+https://shopify-support.slack.com/archives/C026ATXN24C/p1729033518565049
+GC: Shopify Plans Pricing Change - 2023 and early 2024 - Key information.",1,,,,,
+,https://shopify-support.slack.com/archives/C02A3KN0V9T/p1731938602814459,1,,,,,
+,https://shopify-support.slack.com/archives/C02F5AHT78U/p1744275166230209,1,,,,,
+,https://shopify-support.slack.com/archives/C02F5AHT78U/p1749226346245899,1,,,,,
+,https://shopify-support.slack.com/archives/C02JL9T7684/p1732349156495429,1,,,,,
+,https://shopify-support.slack.com/archives/C02JL9T7684/p1743434330622859,1,,,,,
+,"https://shopify-support.slack.com/archives/C02JL9T7684/p1743717413150599
+
+https://community.shopify.com/c/shopify-discussions/creating-a-hidden-page-with-exclusive-products/td-p/1013520
+
+https://apps.shopify.com/locksmith
+
+https://rusticated.co/ecommerce/shopify/how-to-hide-products-from-shopify-search/",1,,,,,
+,https://shopify-support.slack.com/archives/C03KWV3MP/p1749229895108389,1,,,,,
+,https://shopify-support.slack.com/archives/C04EASH34BG/p1749650272633659,1,,,,,
+,https://shopify-support.slack.com/archives/C04EASH34BG/p1749660082043459,1,,,,,
+,https://shopify-support.slack.com/archives/C0738MNT1L1/p1748634499375719,1,,,,,
+,"https://shopify-support.slack.com/archives/C0F0FGJMU/p1748908599481929
+https://shopify-support.slack.com/archives/C0F0FGJMU/p1748505392830999",1,,,,,
+,https://shopify-support.slack.com/archives/C2S707NKF/p1749052895987239,1,,,,,
+,https://shopify.click/22415-32426-75833-34424-50333.png,1,,,,,
+,https://shopify.click/36087-29972-78883-70696-35343.webm,1,,,,,
+,"https://shopify.click/51063-66501-21545-68453-30732.png
+https://shopify.click/6717-82926-25012-89745-7116.png
+https://shopify.click/18110-91604-39458-75248-87368.png
+https://shopify.click/61551-49778-6335-65451-36757.png",1,,,,,
+,https://shopify.click/83930-33997-79806-123-15388.webm,1,,,,,
+,https://shopify.click/92895-10777-44240-62533-64572.png,1,,,,,
+,"https://shopify.dev/docs/api/admin-graphql/latest/mutations/webhookSubscriptionDelete
+https://shopify.dev/docs/apps/build/authentication-authorization/access-tokens/offline-access-tokens",1,,,,,
+,https://shopify.dev/docs/api/admin-graphql/latest/queries/orders,1,,,,,
+,https://shopify.dev/docs/apps/build/authentication-authorization/app-installation/manage-access-scopes,1,,,,,
+,"https://shopify.dev/docs/apps/build/markets/build-catalog
+https://shopify.dev/docs/apps/build/markets/catalogs-different-markets",1,,,,,
+,https://shopify.dev/docs/apps/launch/app-requirements-checklist#h-contact-information,1,,,,,
+,https://shopify.dev/docs/apps/launch/billing/managed-pricing#welcome-links,1,,,,,
+,https://shopify.dev/docs/apps/launch/deployment/deploy-app-versions#submit-an-app-version-for-review,1,,,,,
+,https://shopify.dev/docs/storefronts/themes/architecture/sections,1,,,,,
+,https://shopify.zendesk.com/agent/tickets/56266389,1,,,,,
+,https://shopify.zendesk.com/agent/tickets/57005923,1,,,,,
+,"https://shopify.zendesk.com/agent/tickets/57557968
+
+",1,,,,,
+,https://shopify.zendesk.com/agent/tickets/58007010,1,,,,,
+,"https://stocky.shopifyapps.com/purchase_orders
+
+https://admin.shopify.com/store/16acfa-2/apps/bill-pay?link_source=search&order=desc&page=0&search=13911&sort=due-date&tab=0",1,,,,,
+,https://storage.googleapis.com/chat-attachments-production/2025-06-06/1c4d3792-5f29-4079-bff3-307259b963bc/QzM0Sjc5eC5tcDQ=,1,,,,,
+,https://www.paypal.com/us/cshelp/article/why-did-i-get-api-error-code-10002-ts1030,1,,,,,
+,https://www.shopify.com/ca/payment-gateways,1,,,,,
+,https://www.shopify.com/enterprise/blog/erp-integration,1,,,,,
+,https://www.shopify.com/in/blog/404-error,1,,,,,
+,https://www.shopify.com/in/partners/directory,1,,,,,
+,https://www.shopify.com/uk/payment-gateways,1,,,,,
+,"https://www.youtube.com/watch?v=dJpT3D3u5zY
+
+https://community.shopify.com/c/shopify-design/how-to-remove-cart-quantity-option-for-a-single-product/td-p/2068893",1,,,,,
+,https://www.youtube.com/watch?v=gNrDYuL_ZyQ,1,,,,,
+,I cant seem to find a resource here that says the new owner would be reflective on older invoices before the new ownership took over. advised of an escalation and will track it to learn on my end.,1,,,,,
+,Issue is with the GLC Geolocation app. No relevant resource about the issue.,1,,,,,
+,Issue resolved with troubleshooting. No guru card reference. ,1,,,,,
+,It was necessary to reach out SSA in beacon directly ,1,,,,,
+,"It's already archived, but still accessible. ",1,,,,,
+,"Just used these screenshots from Zoho's instruction page showing what TXT record should be added:
+https://shopify.click/7160-94176-54449-550-16033.png
+https://shopify.click/13049-27238-14198-1377-76953.png",1,,,,,
+,Just went to the theme editor to replicate and try resolving the issue. No resource used other than theme editor page.,1,,,,,
+,Multiple resources leading to 500 errors. Not enough context to know which one to use,1,,,,,
+,N,1,,,,,
+,N?A,1,,,,,
+,n.a,2,,,,,
+,n/a,243,,,,,
+,"N/A
+",1,,,,,
+,n/a - checked theme editor,1,,,,,
+,N/A - Merchant needs to follow up with app developer and supplier of the product via AutoDS app.,1,,,,,
+,n/a - referenced this slack thread: https://shopify-support.slack.com/archives/C04EASH34BG/p1748258291930299,1,,,,,
+,N/A - Resource for this question does not seem to exist,1,,,,,
+,N/A - resources available did not discuss troubleshooting this specific issue.,1,,,,,
+,"N/A - This was a specific Flow glitch. No logs we could go on, so nothing to really compare it to.",1,,,,,
+,"N/A - This was an unsupported issue, so resource unavailable is expected here.",1,,,,,
+,N/A - unusual issue that wouldn't really be documented,1,,,,,
+,N/A - would need more info to confirm best resource.,1,,,,,
+,N/A Advance troubleshooting required to fix the issue/ No GC/No HC,1,,,,,
+,n/a as issue resolved itself,1,,,,,
+,N/A as per SA he already found the solution,1,,,,,
+,N/A basic troubleshooting to resolve issue,1,,,,,
+,N/A in this case.,1,,,,,
+,n/a issue resolved by basic tb,1,,,,,
+,n/a limitation,1,,,,,
+,n/a no resource found,1,,,,,
+,n/a no resources that show when a refund goes through when a inquiry is opened,1,,,,,
+,N/A SA afk,1,,,,,
+,N/A troubleshooting required as they are using third party carrier ,1,,,,,
+,"N/A, basic troubleshooting worked ",1,,,,,
+,"N/A, platform limitation",1,,,,,
+,"N/A, teammate needed assistance removing a domain from a frozen store",1,,,,,
+,N/A. Basic TB only,1,,,,,
+,na,161,,,,,
+,"NA
+",2,,,,,
+,NA ,1,,,,,
+,NA - Domain refund needs to be actions by an SSA ,1,,,,,
+,NA - removing a draft/refunding a domain is something that only SSAs and escalated Billing support can do. ,1,,,,,
+,"Nearest resource checked: 
+* https://app.getguru.com/card/cgMq5MRi/Fulfillment-Request-fulfillment-vs-Fulfill-item-for-app-locations
+* https://help.shopify.com/en/manual/international/duties-and-import-taxes",1,,,,,
+,Needs to go to TMS as the internal can not even be accessed at the moment. Looks like the store has been frozen since 2024 so may have idled and need a refresh.,1,,,,,
+,"New issue with SP holds, no resource on this yet for this exact error.",1,,,,,
+,No available resource,1,,,,,
+,No document needed. Logicaly thinking only,1,,,,,
+,No document related,1,,,,,
+,No documentation,2,,,,,
+,No documentation ,1,,,,,
+,No documentation avaialable,1,,,,,
+,No Documentation available,1,,,,,
+,"No exact resource about the topic so I just shared several screenshots to the SA for reference on the resolution.
+",1,,,,,
+,No exact resource explains the behavior and nothing is shared in the conversation. ,1,,,,,
+,No exact resource found and only found this related Dev Docs explaining what CSP is and how it works - https://shopify.dev/docs/api/hydrogen/2024-04/utilities/createcontentsecuritypolicy,1,,,,,
+,No exact resource regarding the issue. But the closest one used by the SA is this: https://app.getguru.com/card/ie8B7zoT/Domainify-Cloudflare-Bust-Command,1,,,,,
+,No guru card checked as Issue was already resolved.,1,,,,,
+,No guru card reference.,2,,,,,
+,No guru card reference. ,1,,,,,
+,No guru card shared as the interaction was dropped. ,1,,,,,
+,No indication of any holds in the internal dashboard,1,,,,,
+,"No related resource regarding merchant's query. However, I used my test store to replicate the issue in the Horizon theme and shared these screenshots:
+- https://shopify.click/5121-77981-83603-4876-40213.png
+- https://shopify.click/27116-87802-8160-32265-30349.png",1,,,,,
+,No relevant resource about the issue since it is third-party theme related issue.,1,,,,,
+,No relevant resource can be used. ,1,,,,,
+,No relevant resource found.,1,,,,,
+,"No relevant resource used, just walked them through on how to remove the old third-party domain in the store admin.",1,,,,,
+,no resource,2,,,,,
+,no resource - we were gathering context and the merchant ended the chat,1,,,,,
+,No resource available,1,,,,,
+,"No resource available
+
+https://checkout.shiprocket.in/?utm_campaign=SRC_Payment_Gateway_12_03_25&utm_content=PG&utm_term=keyword&utm_source=google&utm_medium=cpc&gad_source=1&gad_campaignid=22331406902&gbraid=0AAAAAqcqWDotzv4Ar17-g7pIDoOLLA2ZS&gclid=Cj0KCQjw0qTCBhCmARIsAAj8C4YMz3U3QIyE7As9mkG70AOQkLGMWIwZl5jTr82W49Zv3vXQLD3W0ecaAo7fEALw_wcB",1,,,,,
+,no resource available ,1,,,,,
+,No resource available as of the moment but advised that this is not really possible and advised to do a merchant frustration ,1,,,,,
+,No resource available for the issue ,1,,,,,
+,"No resource available, but it was replicable on the admin by exploring the settings and comparing other products ",1,,,,,
+,No resource directs you to check the Internal > Billing to see what date updates to details were made.,1,,,,,
+,No resource for ✗ Payouts not active: Action required. Stripe Connect: requirements.past_due  error we had to check on slack threads for the same issue ,1,,,,,
+,No resource for errors within our dispute forms for Trust Platform tickets - https://app.getguru.com/card/c4RykbGi/Appeals-Process-for-Terminated-Accounts,1,,,,,
+,No resource for this,1,,,,,
+,No resource for this one,1,,,,,
+,No resource needed ,1,,,,,
+,No resource needed as SP was deactivated and Merchant went AFK.,1,,,,,
+,No resource provide/ basic TB fix the issue. ,1,,,,,
+,"NO resource provided, just visual audit to find the option to delete the automation.",1,,,,,
+,No resource provided. ,1,,,,,
+,No resource required - just confirmed things for advisor.,1,,,,,
+,No resource required - just that thorough checking of invoice details straightened things out and clarified what the latest invoice actually consisted of. ,1,,,,,
+,"No resource required, only was to resolve a pending refund is to complete it.",1,,,,,
+,No resource required.,1,,,,,
+,"No resource shared in the collaboration from the SA. I shared the following relevant card :
+https://app.getguru.com/card/ecx55Bdc/Charges-Upon-Reactivation-Double-charges-or-mismatched-charges-when-reactivating-frozen-and-cancelled-stores-Key-information
+
+",1,,,,,
+,No resource shared. ,1,,,,,
+,"No resource, escalation to billing required.",1,,,,,
+,No resourced used to resolve the issue. Resolved by troubleshooting within the admin (main product settings),1,,,,,
+,No resources,1,,,,,
+,No resources available for third party self returns,1,,,,,
+,No resources available for this but it is expected behavior that calculated rates will not show in the checkout if the customer is not eligible for the rate to be used and if the carrier doesn't offer services within the location of the customer. Advised to just use the flat rate but that is not suggested as all the rates will be showing in the checkout and mostly all of the customers will prefer to use the cheapest of the rate but not really applicable for their order. ,1,,,,,
+,No resources created for this kind of concern.,1,,,,,
+,No resources even external resources,1,,,,,
+,No resources found,1,,,,,
+,No resources found for the Horizon theme editor case. ,1,,,,,
+,no resources used,1,,,,,
+,No Resources was shared to the SA,1,,,,,
+,No resources were provided and SA was not able to add a custom rate to check if the carrier offers services to customers location or if they manage to meet the eligibility to use the rate. Advised to create a custom rate and reach out with UPS to further investigate what other services they offer that the merchant may be able to use. ,1,,,,,
+,No shared resource. ,1,,,,,
+,"no TMS related GC. Though at the end, the merchant confirmed that there's no issue.",1,,,,,
+,None,4,,,,,
+,"None - Email notification concern
+
+https://app.getguru.com/card/cMz9LK9i/Rolebased-Access-Control-RBAC-Key-information - Staff list concern",1,,,,,
+,"None - resource got outside from Guru Card.
+
+https://developers.google.com/search/docs/monitor-debug/security/social-engineering",1,,,,,
+,Not Available,1,,,,,
+,Not clear what to do if steps from resource don't work.,1,,,,,
+,Ongoing issue ,1,,,,,
+,Provided a workaround which I think would work since we don't have any resources that support the merchant needs.,1,,,,,
+,"Provided wrong resource as this is not a regular bank account update. 
+",1,,,,,
+,Reached out to Account Security via Slack for the SA: https://shopify-support.slack.com/archives/C0F0FGJMU/p1749680545374029,1,,,,,
+,Related to ongoing issue where intervention is required to help merchants purchase domains.,1,,,,,
+,Resource only available for SSA,1,,,,,
+,Resource shared was not accessible by myself or the SA,1,,,,,
+,resource used https://app.getguru.com/card/i74z7KoT/Klarna-Troubleshooting-Klarna-does-not-show-as-a-payment-option-at-checkout-for-some-customers but can see in Abacus there is provider action required which is why we are escalating to the payments team,1,,,,,
+,Resources unclear/unavailable on this. ,1,,,,,
+,SA asked to end chat since merchant already left.,1,,,,,
+,"SA confused who reachout, Theyn need to check all the resourses while reachout to support ",1,,,,,
+,SA could have perform visual auditon on the product variant colors as well as the theme native feature for color swatches. In this they will determine that the color swatches is getting color variants on their product variants not in their color metafields. ,1,,,,,
+,"SA did not share relevant card :
+https://app.getguru.com/card/iRA48kBT/Billing-Troubleshooting-INR-Billing",1,,,,,
+,"SA did not share resource but appropriate resource is :
+https://app.getguru.com/card/kcRjj69c/Billing-Subscription-Refund-Policy-Cancellations-and-Downgrades-Key-information",1,,,,,
+,"SA does not have access to the card so I shared it for the record :
+https://app.getguru.com/card/cqor76ki/Shopify-Payments-Save-button-not-responding-when-trying-to-change-the-payout-date",1,,,,,
+,"SA does not have access to TMS cards but one is here :
+https://app.getguru.com/card/cqor76ki/Shopify-Payments-Save-button-not-responding-when-trying-to-change-the-payout-date?query=update+payout+period+save+option+not+showing&agentId=0cc5dacb-bf5d-4cc9-ab6b-0ca4ec6e02a4",1,,,,,
+,SA is AFK,1,,,,,
+,SA was not able to check any resources but the answer to the query as to why it doesnt show the banner already shows at the settings as their locations really dont require cookie banner. ,1,,,,,
+,SA was not able to check the discount if they will be met by the customer to use the shipping for free. and it shows that the condition of the discount will make the customer not be able to use the rate as the condition should be 125 but when the discount is applied it would be 124.10 that is why it will show the rate error ,1,,,,,
+,SA Wasn't able to check any resources and not aware on how to check the product to storefront that shows out of stock as this is only being offered to UK. In Shop App they would need to search the merchants store first to shop app and then search for the specific product ,1,,,,,
+,SA wasn't able to check any resources. ,1,,,,,
+,"Search for youtube video on how TRUE or FALSE metafield used: 
+- https://www.youtube.com/watch?v=opnZqx7RqMY",1,,,,,
+,Security - HSTS and Domains - https://app.getguru.com/card/yTyA9xBT/Security-HSTS-and-Domains,1,,,,,
+,should have double check the orders,1,,,,,
+,Similar to Shopify Payments - Common Payout Questions - FAQ ,1,,,,,
+,"Since the agent did not gather all the context, we could not know what was the issue or the GC that must be followed ",1,,,,,
+,SPI authorization status.,1,,,,,
+,Started a thread in [#technical-incident-reporting channel here](https://shopify-support.slack.com/archives/C04EASH34BG/p1749675789277419),2,,,,,
+,Step by step: https://shopify.click/31107-59934-775-56501-17226.webm,1,,,,,
+,"Steps here: https://shopify.click/56232-33591-70383-97488-5705.webm
+
+",1,,,,,
+,"Talked to SSA from #mpa-approval: https://shopify-support.slack.com/archives/C043FATG8GG/p1749668654195799
+
+No resource linked to the issue.",1,,,,,
+,"The advisor did not provide any resources to the issue but mentioned checked some slack, it could have better if SA provided some resources.
+
+As SSA here are resources I used 
+* https://app.getguru.com/card/kcRygd9c/Shopify-Shipping-Troubleshooting-BYOA-Bring-Your-Own-Account-UPS-ConnectionSetup
+- slack thread: https://shopify-support.slack.com/archives/C2S707NKF/p1748532993186179
+- slack thread: https://shopify-support.slack.com/archives/C2S707NKF/p1742849373610969",1,,,,,
+,"The concern was solved within the chat, so no resource was checked whatsoever.",1,,,,,
+,The domain needs to be deleted from draft status which is not something that SA can do and then subsequent refund is not that they have permissions for.,1,,,,,
+,The SA failed to provide more context.,1,,,,,
+,There are no resources for this concern,1,,,,,
+,"There is no resource, the resolution was already available on the screenshot the merchant sent to the advisor ",1,,,,,
+,There is no resources for this issue.,1,,,,,
+,There is no specific GC or resources available for this concern.,1,,,,,
+,There is only a ZD ticket related to this query which was escalated to Theme Support: https://shopify.zendesk.com/agent/tickets/57647228,1,,,,,
+,There was no guru card shared as this is more on troubleshooting concern.,1,,,,,
+,There was no resources available,1,,,,,
+,There were no resources utilized. ,1,,,,,
+,There's no available guru card and the SA went afk.,1,,,,,
+,Third party app https://apps.shopify.com/powr-popup?search_id=86cf5e9e-fa72-4eb9-81ee-d1c986719fcd&shallow_install_type=search&surface_detail=powr+popup&surface_inter_position=1&surface_intra_position=1&surface_type=search managing the popup directed to app support team. ,1,,,,,
+,"Third party app intergration, https://old.blue.cl/centro-de-ayuda/ayuda-integraciones-ecommerce/",1,,,,,
+,Third party app support: https://app.getguru.com/card/qT9nLA5T/Supporting-merchants-with-third-party-apps-Key-information,1,,,,,
+,third party themes,1,,,,,
+,This is a bug issue that should be escalated to our Theme support ,1,,,,,
+,This is an automatic conversion of the order and shows pending and not being sent to their bank account. advised to get this coordinated with our Billings team and if no resolution were provided then it should be escalated to our TMS for log request ,1,,,,,
+,this is out of our scope but was able to provide the resolution to use the bulk editor. ,1,,,,,
+,This is out of our scope of support and we do not have any feature to change or update the API Key for custom data. ,1,,,,,
+,"This should be double-checked with support-taxes, as we don't have all the information regarding it. So far, if the merchant followed the instructions all should be correct now ",1,,,,,
+,TMS GC: https://app.getguru.com/card/cja6Kkki/Shop-Shop-app-notifying-customers-of-delivery-prior-to-order-being-dispatcheddelivered,1,,,,,
+,TMS GC: https://app.getguru.com/card/Tpk9RgBc/Shopify-App-Store-Apps-showing-as-Not-compatible-,1,,,,,
+,TMS only https://app.getguru.com/card/iyAbMx9T/C1-Abandoned-Checkouts-not-being-recorded,1,,,,,
+,unable to find any related GURU,1,,,,,
+,Unsupported,1,,,,,
+,"Was about to share this screenshot to the SA, but the issue already got resolved: https://shopify.click/62206-69771-70226-28662-38705.png",1,,,,,
+,we had to go through the credits and invoices here to look into the merchants issue. no resource available just had to go through the invoices,1,,,,,
+,Grand Total,1390,,,,,

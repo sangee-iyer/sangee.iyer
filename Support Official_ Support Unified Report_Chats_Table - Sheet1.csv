@@ -1,0 +1,11 @@
+Consulted status,AFTR%,Ticket Handled (FT),Average Time to Resolution (Hour),Avoidable Escalation %,Quality Issue Escalations %
+Not Consulted,83.44%,107502,3.06,15.18%,10.33%
+Consulted chat,84.28%,4507,4.29,15.43%,10.66%
+,,,,,
+Consulted status,Avg Handle Time,Avg Talk Time,Avg Wrapup Time,,
+Not Consulted,33.91,31.60,2.31,,
+Consulted chat,63.83,60.53,3.30,,
+,,,,,
+Consulted status,Chat Smiley %,Smiley Responses,,,
+Not Consulted,77.94%,7662,,,
+Consulted chat,80.41%,342,,,

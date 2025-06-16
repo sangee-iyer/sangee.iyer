@@ -87,7 +87,7 @@ with st.spinner("Loading data..."):
         df_overview = pd.DataFrame()
 
 # --- SSA Performance Section ---
-st.header("1. SSA Performance Overview")
+st.header("1. SSA Performance Overview - Overall")
 if not df_main.empty:
     # Resolution status breakdown
     res_counts = df_main['Resolution status'].value_counts().reset_index()
@@ -98,7 +98,7 @@ if not df_main.empty:
     # Escalation rate
     esc_count = (df_main['Resolution status'].str.lower() == 'escalated').sum()
     total = len(df_main)
-    st.metric("Escalation Rate", f"{esc_count/total:.1%}")
+    st.metric("Escalation Rate (Escalated count vs Total tickets handled)", f"{esc_count/total:.1%}")
 else:
     st.info("Main ticket data not loaded.")
 
@@ -115,11 +115,16 @@ else:
     st.info("Feedback summary not loaded.")
 
 # --- Chat/Overview Metrics ---
-st.subheader("Consulted vs Not Consulted Metrics")
+st.subheader("Consulted vs Not Consulted Metrics (BPO only)")
 if not df_chat.empty:
     st.dataframe(df_chat)
 if not df_overview.empty:
-    st.dataframe(df_overview)
+    # Remove 'Ticket Handled (First Touch)' column if present
+    overview_display = df_overview.copy()
+    if 'Ticket Handled (First Touch)' in overview_display.columns:
+        overview_display = overview_display.drop(columns=['Ticket Handled (First Touch)'])
+    st.markdown("**Tenure level Avoidable Escalations - BPO only**")
+    st.dataframe(overview_display)
 
 # --- Reasons for Consultation ---
 st.header("2. Reasons for SA Consultation")
@@ -133,7 +138,7 @@ if not df_main.empty:
     words = [w for w in text.split() if len(w) > 3]
     word_freq = Counter(words)
     # Remove stopwords
-    stopwords = ['shopify', 'merchant', 'like', 'that', 'them', 'want', 'using', 'when', 'would', 'they', 'from', 'wants', 'trying', 'having', 'there', 'been', 'their']
+    stopwords = ['shopify', 'merchant', 'like', 'that', 'them', 'want', 'using', 'when', 'would', 'they', 'from', 'wants', 'trying', 'having', 'there', 'been', 'their', 'this', 'with', 'only', 'still', 'able', 'getting', 'have', 'shows']
     for stopword in stopwords:
         if stopword in word_freq:
             del word_freq[stopword]
